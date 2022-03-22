@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.1)  21 MAR 2022 14:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.1)  21 MAR 2022 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -884,12 +884,17 @@ LaTeX Info: Redefining \nameref on input line 124.
 \@outlinefile=\write4
 \openout4 = `memorial_amp.out'.
 
+<Figuras/ifgw.jpg, id=320, 690.32906pt x 359.84438pt>
+File: Figuras/ifgw.jpg Graphic file (type jpg)
+<use Figuras/ifgw.jpg>
+Package pdftex.def Info: Figuras/ifgw.jpg  used on input line 131.
+(pdftex.def)             Requested size: 364.19664pt x 189.84357pt.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 139.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./memorial_amp.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Figuras/ifgw.jpg>] (./memorial_amp.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1051,7 +1056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 641--644
  (./appendices.tex
 
 pdfTeX warning: pdflatex (file ./Diplomas/DiplomaGraduaca.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/DiplomaGraduaca.pdf, id=668, 597.23125pt x 845.1575pt>
+<Diplomas/DiplomaGraduaca.pdf, id=669, 597.23125pt x 845.1575pt>
 File: Diplomas/DiplomaGraduaca.pdf Graphic file (type pdf)
 <use Diplomas/DiplomaGraduaca.pdf>
 Package pdftex.def Info: Diplomas/DiplomaGraduaca.pdf  used on input line 13.
@@ -1069,7 +1074,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/DiplomaGraduaca.pdf): PDF inclusion: f
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/DiplomaGraduaca.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/DiplomaGraduaca.pdf, id=671, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/DiplomaGraduaca.pdf, id=672, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/DiplomaGraduaca.pdf Graphic file (type pdf)
 <use Diplomas/DiplomaGraduaca.pdf, page 1>
 Package pdftex.def Info: Diplomas/DiplomaGraduaca.pdf , page1 used on input line 13.
@@ -1096,7 +1101,7 @@ Package pdftex.def Info: Diplomas/DiplomaGraduaca.pdf , page1 used on input line
  [20 <./Diplomas/DiplomaGraduaca.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/DiplomaGraduaca.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/DiplomaGraduaca.pdf, id=685, page=2, 597.23125pt x 845.1575pt>
+<Diplomas/DiplomaGraduaca.pdf, id=686, page=2, 597.23125pt x 845.1575pt>
 File: Diplomas/DiplomaGraduaca.pdf Graphic file (type pdf)
 <use Diplomas/DiplomaGraduaca.pdf, page 2>
 Package pdftex.def Info: Diplomas/DiplomaGraduaca.pdf , page2 used on input line 13.
@@ -1110,7 +1115,7 @@ File: Diplomas/DiplomaGraduaca.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/DiplomaGraduaca.pdf , page2 used on input line 13.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 [21 <./Diplomas/DiplomaGraduaca.pdf>]
-<Diplomas/diploma-mestrado.pdf, id=694, 614.295pt x 794.97pt>
+<Diplomas/diploma-mestrado.pdf, id=695, 614.295pt x 794.97pt>
 File: Diplomas/diploma-mestrado.pdf Graphic file (type pdf)
 <use Diplomas/diploma-mestrado.pdf>
 Package pdftex.def Info: Diplomas/diploma-mestrado.pdf  used on input line 19.
@@ -1119,7 +1124,7 @@ File: Diplomas/diploma-mestrado.pdf Graphic file (type pdf)
 <use Diplomas/diploma-mestrado.pdf>
 Package pdftex.def Info: Diplomas/diploma-mestrado.pdf  used on input line 19.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/diploma-mestrado.pdf, id=697, page=1, 614.295pt x 794.97pt>
+<Diplomas/diploma-mestrado.pdf, id=698, page=1, 614.295pt x 794.97pt>
 File: Diplomas/diploma-mestrado.pdf Graphic file (type pdf)
 <use Diplomas/diploma-mestrado.pdf, page 1>
 Package pdftex.def Info: Diplomas/diploma-mestrado.pdf , page1 used on input line 19.
@@ -1142,7 +1147,7 @@ File: Diplomas/diploma-mestrado.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/diploma-mestrado.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [23 <./Diplomas/diploma-mestrado.pdf>]
-<Diplomas/PhDcertificate.pdf, id=709, 611.40419pt x 842.18637pt>
+<Diplomas/PhDcertificate.pdf, id=710, 611.40419pt x 842.18637pt>
 File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 <use Diplomas/PhDcertificate.pdf>
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf  used on input line 25.
@@ -1151,7 +1156,7 @@ File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 <use Diplomas/PhDcertificate.pdf>
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf  used on input line 25.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
-<Diplomas/PhDcertificate.pdf, id=712, page=1, 611.40419pt x 842.18637pt>
+<Diplomas/PhDcertificate.pdf, id=713, page=1, 611.40419pt x 842.18637pt>
 File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 <use Diplomas/PhDcertificate.pdf, page 1>
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf , page1 used on input line 25.
@@ -1174,7 +1179,7 @@ File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
  [25 <./Diplomas/PhDcertificate.pdf>]
-<Diplomas/PhDcertificate.pdf, id=724, page=2, 611.40419pt x 842.18637pt>
+<Diplomas/PhDcertificate.pdf, id=725, page=2, 611.40419pt x 842.18637pt>
 File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 <use Diplomas/PhDcertificate.pdf, page 2>
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf , page2 used on input line 25.
@@ -1188,7 +1193,7 @@ File: Diplomas/PhDcertificate.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/PhDcertificate.pdf , page2 used on input line 25.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
  [26 <./Diplomas/PhDcertificate.pdf>]
-<Diplomas/posdocFMRP.pdf, id=730, 597.23125pt x 845.1575pt>
+<Diplomas/posdocFMRP.pdf, id=731, 597.23125pt x 845.1575pt>
 File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 <use Diplomas/posdocFMRP.pdf>
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf  used on input line 31.
@@ -1197,7 +1202,7 @@ File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 <use Diplomas/posdocFMRP.pdf>
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf  used on input line 31.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Diplomas/posdocFMRP.pdf, id=733, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/posdocFMRP.pdf, id=734, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 <use Diplomas/posdocFMRP.pdf, page 1>
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf , page1 used on input line 31.
@@ -1220,7 +1225,7 @@ File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf , page1 used on input line 31.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [28 <./Diplomas/posdocFMRP.pdf>]
-<Diplomas/posdocFMRP.pdf, id=752, page=2, 597.23125pt x 845.1575pt>
+<Diplomas/posdocFMRP.pdf, id=753, page=2, 597.23125pt x 845.1575pt>
 File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 <use Diplomas/posdocFMRP.pdf, page 2>
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf , page2 used on input line 31.
@@ -1234,7 +1239,7 @@ File: Diplomas/posdocFMRP.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/posdocFMRP.pdf , page2 used on input line 31.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [29 <./Diplomas/posdocFMRP.pdf>]
-<Diplomas/fapesp_renata2019.pdf, id=762, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=763, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf  used on input line 37.
@@ -1243,7 +1248,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf  used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
-<Diplomas/fapesp_renata2019.pdf, id=765, page=1, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=766, page=1, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page1 used on input line 37.
@@ -1266,7 +1271,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page1 used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
  [31 <./Diplomas/fapesp_renata2019.pdf>]
-<Diplomas/fapesp_renata2019.pdf, id=802, page=2, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=803, page=2, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf, page 2>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page2 used on input line 37.
@@ -1280,7 +1285,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page2 used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
  [32 <./Diplomas/fapesp_renata2019.pdf>]
-<Diplomas/fapesp_renata2019.pdf, id=809, page=3, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=810, page=3, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf, page 3>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page3 used on input line 37.
@@ -1294,7 +1299,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page3 used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
  [33 <./Diplomas/fapesp_renata2019.pdf>]
-<Diplomas/fapesp_renata2019.pdf, id=814, page=4, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=815, page=4, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf, page 4>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page4 used on input line 37.
@@ -1308,7 +1313,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page4 used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
  [34 <./Diplomas/fapesp_renata2019.pdf>]
-<Diplomas/fapesp_renata2019.pdf, id=823, page=5, 597.19106pt x 845.07718pt>
+<Diplomas/fapesp_renata2019.pdf, id=824, page=5, 597.19106pt x 845.07718pt>
 File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 <use Diplomas/fapesp_renata2019.pdf, page 5>
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page5 used on input line 37.
@@ -1322,7 +1327,7 @@ File: Diplomas/fapesp_renata2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/fapesp_renata2019.pdf , page5 used on input line 37.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
  [35 <./Diplomas/fapesp_renata2019.pdf>]
-<Diplomas/MRIoxford.pdf, id=830, 614.295pt x 794.97pt>
+<Diplomas/MRIoxford.pdf, id=831, 614.295pt x 794.97pt>
 File: Diplomas/MRIoxford.pdf Graphic file (type pdf)
 <use Diplomas/MRIoxford.pdf>
 Package pdftex.def Info: Diplomas/MRIoxford.pdf  used on input line 44.
@@ -1331,7 +1336,7 @@ File: Diplomas/MRIoxford.pdf Graphic file (type pdf)
 <use Diplomas/MRIoxford.pdf>
 Package pdftex.def Info: Diplomas/MRIoxford.pdf  used on input line 44.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/MRIoxford.pdf, id=833, page=1, 614.295pt x 794.97pt>
+<Diplomas/MRIoxford.pdf, id=834, page=1, 614.295pt x 794.97pt>
 File: Diplomas/MRIoxford.pdf Graphic file (type pdf)
 <use Diplomas/MRIoxford.pdf, page 1>
 Package pdftex.def Info: Diplomas/MRIoxford.pdf , page1 used on input line 44.
@@ -1361,7 +1366,7 @@ Package pdftex.def Info: Diplomas/MRIoxford.pdf , page1 used on input line 44.
  [37 <./Diplomas/MRIoxford.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/OHBMtravelAward.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/OHBMtravelAward.pdf, id=860, 597.23125pt x 845.1575pt>
+<Diplomas/OHBMtravelAward.pdf, id=861, 597.23125pt x 845.1575pt>
 File: Diplomas/OHBMtravelAward.pdf Graphic file (type pdf)
 <use Diplomas/OHBMtravelAward.pdf>
 Package pdftex.def Info: Diplomas/OHBMtravelAward.pdf  used on input line 50.
@@ -1379,7 +1384,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/OHBMtravelAward.pdf): PDF inclusion: f
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/OHBMtravelAward.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/OHBMtravelAward.pdf, id=863, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/OHBMtravelAward.pdf, id=864, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/OHBMtravelAward.pdf Graphic file (type pdf)
 <use Diplomas/OHBMtravelAward.pdf, page 1>
 Package pdftex.def Info: Diplomas/OHBMtravelAward.pdf , page1 used on input line 50.
@@ -1402,7 +1407,7 @@ File: Diplomas/OHBMtravelAward.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/OHBMtravelAward.pdf , page1 used on input line 50.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [39 <./Diplomas/OHBMtravelAward.pdf>]
-<Diplomas/premioCAPES.pdf, id=877, 794.97pt x 614.295pt>
+<Diplomas/premioCAPES.pdf, id=878, 794.97pt x 614.295pt>
 File: Diplomas/premioCAPES.pdf Graphic file (type pdf)
 <use Diplomas/premioCAPES.pdf>
 Package pdftex.def Info: Diplomas/premioCAPES.pdf  used on input line 56.
@@ -1411,7 +1416,7 @@ File: Diplomas/premioCAPES.pdf Graphic file (type pdf)
 <use Diplomas/premioCAPES.pdf>
 Package pdftex.def Info: Diplomas/premioCAPES.pdf  used on input line 56.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-<Diplomas/premioCAPES.pdf, id=880, page=1, 794.97pt x 614.295pt>
+<Diplomas/premioCAPES.pdf, id=881, page=1, 794.97pt x 614.295pt>
 File: Diplomas/premioCAPES.pdf Graphic file (type pdf)
 <use Diplomas/premioCAPES.pdf, page 1>
 Package pdftex.def Info: Diplomas/premioCAPES.pdf , page1 used on input line 56.
@@ -1434,7 +1439,7 @@ File: Diplomas/premioCAPES.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/premioCAPES.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [41 <./Diplomas/premioCAPES.pdf>]
-<Diplomas/CertificadoSIFSC2013.pdf, id=915, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2013.pdf, id=916, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2013.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2013.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2013.pdf  used on input line 66.
@@ -1443,7 +1448,7 @@ File: Diplomas/CertificadoSIFSC2013.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2013.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2013.pdf  used on input line 66.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
-<Diplomas/CertificadoSIFSC2013.pdf, id=918, page=1, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2013.pdf, id=919, page=1, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2013.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2013.pdf, page 1>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2013.pdf , page1 used on input line 66.
@@ -1466,7 +1471,7 @@ File: Diplomas/CertificadoSIFSC2013.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2013.pdf , page1 used on input line 66.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
  [43 <./Diplomas/CertificadoSIFSC2013.pdf>]
-<Diplomas/CertificadoSIFSC2014.pdf, id=941, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2014.pdf, id=942, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2014.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2014.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2014.pdf  used on input line 72.
@@ -1475,7 +1480,7 @@ File: Diplomas/CertificadoSIFSC2014.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2014.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2014.pdf  used on input line 72.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
-<Diplomas/CertificadoSIFSC2014.pdf, id=944, page=1, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2014.pdf, id=945, page=1, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2014.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2014.pdf, page 1>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2014.pdf , page1 used on input line 72.
@@ -1500,7 +1505,7 @@ Package pdftex.def Info: Diplomas/CertificadoSIFSC2014.pdf , page1 used on input
  [45 <./Diplomas/CertificadoSIFSC2014.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopParticipation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/TransatlanticWorkshopParticipation.pdf, id=966, 597.23125pt x 845.1575pt>
+<Diplomas/TransatlanticWorkshopParticipation.pdf, id=967, 597.23125pt x 845.1575pt>
 File: Diplomas/TransatlanticWorkshopParticipation.pdf Graphic file (type pdf)
 <use Diplomas/TransatlanticWorkshopParticipation.pdf>
 Package pdftex.def Info: Diplomas/TransatlanticWorkshopParticipation.pdf  used on input line 78.
@@ -1518,7 +1523,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopParticipation.pdf
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopParticipation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/TransatlanticWorkshopParticipation.pdf, id=969, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/TransatlanticWorkshopParticipation.pdf, id=970, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/TransatlanticWorkshopParticipation.pdf Graphic file (type pdf)
 <use Diplomas/TransatlanticWorkshopParticipation.pdf, page 1>
 Package pdftex.def Info: Diplomas/TransatlanticWorkshopParticipation.pdf , page1 used on input line 78.
@@ -1543,7 +1548,7 @@ Package pdftex.def Info: Diplomas/TransatlanticWorkshopParticipation.pdf , page1
  [47 <./Diplomas/TransatlanticWorkshopParticipation.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopPresentation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/TransatlanticWorkshopPresentation.pdf, id=983, 845.1575pt x 597.23125pt>
+<Diplomas/TransatlanticWorkshopPresentation.pdf, id=984, 845.1575pt x 597.23125pt>
 File: Diplomas/TransatlanticWorkshopPresentation.pdf Graphic file (type pdf)
 <use Diplomas/TransatlanticWorkshopPresentation.pdf>
 Package pdftex.def Info: Diplomas/TransatlanticWorkshopPresentation.pdf  used on input line 79.
@@ -1561,7 +1566,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopPresentation.pdf)
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/TransatlanticWorkshopPresentation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/TransatlanticWorkshopPresentation.pdf, id=986, page=1, 845.1575pt x 597.23125pt>
+<Diplomas/TransatlanticWorkshopPresentation.pdf, id=987, page=1, 845.1575pt x 597.23125pt>
 File: Diplomas/TransatlanticWorkshopPresentation.pdf Graphic file (type pdf)
 <use Diplomas/TransatlanticWorkshopPresentation.pdf, page 1>
 Package pdftex.def Info: Diplomas/TransatlanticWorkshopPresentation.pdf , page1 used on input line 79.
@@ -1583,7 +1588,7 @@ File: Diplomas/TransatlanticWorkshopPresentation.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/TransatlanticWorkshopPresentation.pdf , page1 used on input line 79.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 [48 <./Diplomas/TransatlanticWorkshopPresentation.pdf>]
-<Diplomas/CertificadoSIFSC2015.pdf, id=997, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2015.pdf, id=998, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2015.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2015.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2015.pdf  used on input line 85.
@@ -1592,7 +1597,7 @@ File: Diplomas/CertificadoSIFSC2015.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2015.pdf>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2015.pdf  used on input line 85.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
-<Diplomas/CertificadoSIFSC2015.pdf, id=1000, page=1, 845.0471pt x 597.51233pt>
+<Diplomas/CertificadoSIFSC2015.pdf, id=1001, page=1, 845.0471pt x 597.51233pt>
 File: Diplomas/CertificadoSIFSC2015.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoSIFSC2015.pdf, page 1>
 Package pdftex.def Info: Diplomas/CertificadoSIFSC2015.pdf , page1 used on input line 85.
@@ -1617,7 +1622,7 @@ Package pdftex.def Info: Diplomas/CertificadoSIFSC2015.pdf , page1 used on input
  [50 <./Diplomas/CertificadoSIFSC2015.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/certificadoSFM2016.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/certificadoSFM2016.pdf, id=1022, 794.97pt x 614.295pt>
+<Diplomas/certificadoSFM2016.pdf, id=1023, 794.97pt x 614.295pt>
 File: Diplomas/certificadoSFM2016.pdf Graphic file (type pdf)
 <use Diplomas/certificadoSFM2016.pdf>
 Package pdftex.def Info: Diplomas/certificadoSFM2016.pdf  used on input line 91.
@@ -1635,7 +1640,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/certificadoSFM2016.pdf): PDF inclusion
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/certificadoSFM2016.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/certificadoSFM2016.pdf, id=1025, page=1, 794.97pt x 614.295pt>
+<Diplomas/certificadoSFM2016.pdf, id=1026, page=1, 794.97pt x 614.295pt>
 File: Diplomas/certificadoSFM2016.pdf Graphic file (type pdf)
 <use Diplomas/certificadoSFM2016.pdf, page 1>
 Package pdftex.def Info: Diplomas/certificadoSFM2016.pdf , page1 used on input line 91.
@@ -1658,7 +1663,7 @@ File: Diplomas/certificadoSFM2016.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/certificadoSFM2016.pdf , page1 used on input line 91.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [52 <./Diplomas/certificadoSFM2016.pdf>]
-<Diplomas/certificadoCBFM2017.pdf, id=1062, 597.23125pt x 844.15375pt>
+<Diplomas/certificadoCBFM2017.pdf, id=1063, 597.23125pt x 844.15375pt>
 File: Diplomas/certificadoCBFM2017.pdf Graphic file (type pdf)
 <use Diplomas/certificadoCBFM2017.pdf>
 Package pdftex.def Info: Diplomas/certificadoCBFM2017.pdf  used on input line 97.
@@ -1667,7 +1672,7 @@ File: Diplomas/certificadoCBFM2017.pdf Graphic file (type pdf)
 <use Diplomas/certificadoCBFM2017.pdf>
 Package pdftex.def Info: Diplomas/certificadoCBFM2017.pdf  used on input line 97.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/certificadoCBFM2017.pdf, id=1065, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/certificadoCBFM2017.pdf, id=1066, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/certificadoCBFM2017.pdf Graphic file (type pdf)
 <use Diplomas/certificadoCBFM2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/certificadoCBFM2017.pdf , page1 used on input line 97.
@@ -1693,7 +1698,7 @@ Package pdftex.def Info: Diplomas/certificadoCBFM2017.pdf , page1 used on input 
 
 pdfTeX warning: pdflatex (file ./Diplomas/certificadoCBFM2017.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf, id=1121, 611.40419pt x 842.18637pt>
+<Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf, id=1122, 611.40419pt x 842.18637pt>
 File: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf  used on input line 103.
@@ -1702,7 +1707,7 @@ File: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf  used on input line 103.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
-<Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf, id=1124, page=1, 611.40419pt x 842.18637pt>
+<Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf, id=1125, page=1, 611.40419pt x 842.18637pt>
 File: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf, page 1>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf , page1 used on input line 103.
@@ -1735,7 +1740,7 @@ File: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
  [56 <./Diplomas/CertificadoApresentacaoSeminarioFAMB.pdf>]
-<Diplomas/Neutomat_06_2017.pdf, id=1135, 846.16125pt x 598.235pt>
+<Diplomas/Neutomat_06_2017.pdf, id=1136, 846.16125pt x 598.235pt>
 File: Diplomas/Neutomat_06_2017.pdf Graphic file (type pdf)
 <use Diplomas/Neutomat_06_2017.pdf>
 Package pdftex.def Info: Diplomas/Neutomat_06_2017.pdf  used on input line 109.
@@ -1744,7 +1749,7 @@ File: Diplomas/Neutomat_06_2017.pdf Graphic file (type pdf)
 <use Diplomas/Neutomat_06_2017.pdf>
 Package pdftex.def Info: Diplomas/Neutomat_06_2017.pdf  used on input line 109.
 (pdftex.def)             Requested size: 846.1592pt x 598.23354pt.
-<Diplomas/Neutomat_06_2017.pdf, id=1138, page=1, 846.16125pt x 598.235pt>
+<Diplomas/Neutomat_06_2017.pdf, id=1139, page=1, 846.16125pt x 598.235pt>
 File: Diplomas/Neutomat_06_2017.pdf Graphic file (type pdf)
 <use Diplomas/Neutomat_06_2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/Neutomat_06_2017.pdf , page1 used on input line 109.
@@ -1775,7 +1780,7 @@ Package pdftex.def Info: Diplomas/Neutomat_06_2017.pdf , page1 used on input lin
 
 pdfTeX warning: pdflatex (file ./Diplomas/Neutomat_06_2017.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Diplomas/SIIM2017.pdf, id=1174, 845.0471pt x 597.50829pt>
+<Diplomas/SIIM2017.pdf, id=1175, 845.0471pt x 597.50829pt>
 File: Diplomas/SIIM2017.pdf Graphic file (type pdf)
 <use Diplomas/SIIM2017.pdf>
 Package pdftex.def Info: Diplomas/SIIM2017.pdf  used on input line 115.
@@ -1784,7 +1789,7 @@ File: Diplomas/SIIM2017.pdf Graphic file (type pdf)
 <use Diplomas/SIIM2017.pdf>
 Package pdftex.def Info: Diplomas/SIIM2017.pdf  used on input line 115.
 (pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
-<Diplomas/SIIM2017.pdf, id=1177, page=1, 845.0471pt x 597.50829pt>
+<Diplomas/SIIM2017.pdf, id=1178, page=1, 845.0471pt x 597.50829pt>
 File: Diplomas/SIIM2017.pdf Graphic file (type pdf)
 <use Diplomas/SIIM2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/SIIM2017.pdf , page1 used on input line 115.
@@ -1814,7 +1819,7 @@ Package pdftex.def Info: Diplomas/SIIM2017.pdf , page1 used on input line 115.
  [60 <./Diplomas/SIIM2017.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2017.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2017.pdf, id=1244, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2017.pdf, id=1245, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2017.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2017.pdf  used on input line 123.
@@ -1832,7 +1837,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2017.pdf): PDF inclusion: found P
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2017.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2017.pdf, id=1247, page=1, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2017.pdf, id=1248, page=1, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/ISMRM2017.pdf , page1 used on input line 123.
@@ -1857,7 +1862,7 @@ Package pdftex.def Info: Diplomas/ISMRM2017.pdf , page1 used on input line 123.
  [62 <./Diplomas/ISMRM2017.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2017.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2017.pdf, id=1264, page=2, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2017.pdf, id=1265, page=2, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2017.pdf, page 2>
 Package pdftex.def Info: Diplomas/ISMRM2017.pdf , page2 used on input line 123.
@@ -1871,7 +1876,7 @@ File: Diplomas/ISMRM2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/ISMRM2017.pdf , page2 used on input line 123.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 [63 <./Diplomas/ISMRM2017.pdf>]
-<Diplomas/AcceptanceISMRM2017.pdf, id=1270, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2017.pdf, id=1271, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2017.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf  used on input line 124.
@@ -1880,7 +1885,7 @@ File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2017.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf  used on input line 124.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceISMRM2017.pdf, id=1273, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2017.pdf, id=1274, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page1 used on input line 124.
@@ -1902,7 +1907,7 @@ File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page1 used on input line 124.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [64 <./Diplomas/AcceptanceISMRM2017.pdf>]
-<Diplomas/AcceptanceISMRM2017.pdf, id=1301, page=2, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2017.pdf, id=1302, page=2, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2017.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page2 used on input line 124.
@@ -1916,7 +1921,7 @@ File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page2 used on input line 124.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [65 <./Diplomas/AcceptanceISMRM2017.pdf>]
-<Diplomas/AcceptanceISMRM2017.pdf, id=1307, page=3, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2017.pdf, id=1308, page=3, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2017.pdf, page 3>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page3 used on input line 124.
@@ -1930,7 +1935,7 @@ File: Diplomas/AcceptanceISMRM2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2017.pdf , page3 used on input line 124.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [66 <./Diplomas/AcceptanceISMRM2017.pdf>]
-<Diplomas/BRAINN2017.pdf, id=1314, 845.07718pt x 597.55246pt>
+<Diplomas/BRAINN2017.pdf, id=1315, 845.07718pt x 597.55246pt>
 File: Diplomas/BRAINN2017.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2017.pdf>
 Package pdftex.def Info: Diplomas/BRAINN2017.pdf  used on input line 130.
@@ -1939,7 +1944,7 @@ File: Diplomas/BRAINN2017.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2017.pdf>
 Package pdftex.def Info: Diplomas/BRAINN2017.pdf  used on input line 130.
 (pdftex.def)             Requested size: 845.07512pt x 597.551pt.
-<Diplomas/BRAINN2017.pdf, id=1317, page=1, 845.07718pt x 597.55246pt>
+<Diplomas/BRAINN2017.pdf, id=1318, page=1, 845.07718pt x 597.55246pt>
 File: Diplomas/BRAINN2017.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/BRAINN2017.pdf , page1 used on input line 130.
@@ -1962,7 +1967,7 @@ File: Diplomas/BRAINN2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/BRAINN2017.pdf , page1 used on input line 130.
 (pdftex.def)             Requested size: 845.07512pt x 597.551pt.
  [68 <./Diplomas/BRAINN2017.pdf>]
-<Diplomas/BRAINN2018_apresentacao.pdf, id=1344, 845.07718pt x 597.55246pt>
+<Diplomas/BRAINN2018_apresentacao.pdf, id=1345, 845.07718pt x 597.55246pt>
 File: Diplomas/BRAINN2018_apresentacao.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2018_apresentacao.pdf>
 Package pdftex.def Info: Diplomas/BRAINN2018_apresentacao.pdf  used on input line 136.
@@ -1971,7 +1976,7 @@ File: Diplomas/BRAINN2018_apresentacao.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2018_apresentacao.pdf>
 Package pdftex.def Info: Diplomas/BRAINN2018_apresentacao.pdf  used on input line 136.
 (pdftex.def)             Requested size: 845.07512pt x 597.551pt.
-<Diplomas/BRAINN2018_apresentacao.pdf, id=1347, page=1, 845.07718pt x 597.55246pt>
+<Diplomas/BRAINN2018_apresentacao.pdf, id=1348, page=1, 845.07718pt x 597.55246pt>
 File: Diplomas/BRAINN2018_apresentacao.pdf Graphic file (type pdf)
 <use Diplomas/BRAINN2018_apresentacao.pdf, page 1>
 Package pdftex.def Info: Diplomas/BRAINN2018_apresentacao.pdf , page1 used on input line 136.
@@ -1994,7 +1999,7 @@ File: Diplomas/BRAINN2018_apresentacao.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/BRAINN2018_apresentacao.pdf , page1 used on input line 136.
 (pdftex.def)             Requested size: 845.07512pt x 597.551pt.
  [70 <./Diplomas/BRAINN2018_apresentacao.pdf>]
-<docs/brainn2018.pdf, id=1381, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1382, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf>
 Package pdftex.def Info: docs/brainn2018.pdf  used on input line 142.
@@ -2003,7 +2008,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf>
 Package pdftex.def Info: docs/brainn2018.pdf  used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
-<docs/brainn2018.pdf, id=1384, page=1, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1385, page=1, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 1>
 Package pdftex.def Info: docs/brainn2018.pdf , page1 used on input line 142.
@@ -2026,7 +2031,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page1 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [72 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1397, page=2, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1398, page=2, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 2>
 Package pdftex.def Info: docs/brainn2018.pdf , page2 used on input line 142.
@@ -2040,7 +2045,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page2 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [73 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1403, page=3, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1404, page=3, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 3>
 Package pdftex.def Info: docs/brainn2018.pdf , page3 used on input line 142.
@@ -2054,7 +2059,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page3 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [74 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1409, page=4, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1410, page=4, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 4>
 Package pdftex.def Info: docs/brainn2018.pdf , page4 used on input line 142.
@@ -2068,7 +2073,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page4 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [75 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1416, page=5, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1417, page=5, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 5>
 Package pdftex.def Info: docs/brainn2018.pdf , page5 used on input line 142.
@@ -2082,7 +2087,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page5 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [76 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1422, page=6, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1423, page=6, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 6>
 Package pdftex.def Info: docs/brainn2018.pdf , page6 used on input line 142.
@@ -2096,7 +2101,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page6 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [77 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1428, page=7, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1429, page=7, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 7>
 Package pdftex.def Info: docs/brainn2018.pdf , page7 used on input line 142.
@@ -2110,7 +2115,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page7 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [78 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1435, page=8, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1436, page=8, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 8>
 Package pdftex.def Info: docs/brainn2018.pdf , page8 used on input line 142.
@@ -2124,7 +2129,7 @@ File: docs/brainn2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/brainn2018.pdf , page8 used on input line 142.
 (pdftex.def)             Requested size: 597.1896pt x 796.89525pt.
  [79 <./docs/brainn2018.pdf>]
-<docs/brainn2018.pdf, id=1441, page=9, 597.19106pt x 796.89719pt>
+<docs/brainn2018.pdf, id=1442, page=9, 597.19106pt x 796.89719pt>
 File: docs/brainn2018.pdf Graphic file (type pdf)
 <use docs/brainn2018.pdf, page 9>
 Package pdftex.def Info: docs/brainn2018.pdf , page9 used on input line 142.
@@ -2140,7 +2145,7 @@ Package pdftex.def Info: docs/brainn2018.pdf , page9 used on input line 142.
  [80 <./docs/brainn2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2018.pdf, id=1447, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2018.pdf, id=1448, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2018.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2018.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2018.pdf  used on input line 149.
@@ -2158,7 +2163,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2018.pdf): PDF inclusion: found P
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2018.pdf, id=1450, page=1, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2018.pdf, id=1451, page=1, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2018.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2018.pdf, page 1>
 Package pdftex.def Info: Diplomas/ISMRM2018.pdf , page1 used on input line 149.
@@ -2183,7 +2188,7 @@ Package pdftex.def Info: Diplomas/ISMRM2018.pdf , page1 used on input line 149.
  [82 <./Diplomas/ISMRM2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/ISMRM2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/ISMRM2018.pdf, id=1466, page=2, 597.50829pt x 845.0471pt>
+<Diplomas/ISMRM2018.pdf, id=1467, page=2, 597.50829pt x 845.0471pt>
 File: Diplomas/ISMRM2018.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2018.pdf, page 2>
 Package pdftex.def Info: Diplomas/ISMRM2018.pdf , page2 used on input line 149.
@@ -2197,7 +2202,7 @@ File: Diplomas/ISMRM2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/ISMRM2018.pdf , page2 used on input line 149.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 [83 <./Diplomas/ISMRM2018.pdf>]
-<Diplomas/AcceptanceISMRM2018_1.pdf, id=1472, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_1.pdf, id=1473, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_1.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf  used on input line 150.
@@ -2206,7 +2211,7 @@ File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_1.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf  used on input line 150.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceISMRM2018_1.pdf, id=1475, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_1.pdf, id=1476, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_1.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf , page1 used on input line 150.
@@ -2228,7 +2233,7 @@ File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf , page1 used on input line 150.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [84 <./Diplomas/AcceptanceISMRM2018_1.pdf>]
-<Diplomas/AcceptanceISMRM2018_1.pdf, id=1504, page=2, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_1.pdf, id=1505, page=2, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_1.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf , page2 used on input line 150.
@@ -2242,7 +2247,7 @@ File: Diplomas/AcceptanceISMRM2018_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_1.pdf , page2 used on input line 150.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [85 <./Diplomas/AcceptanceISMRM2018_1.pdf>]
-<Diplomas/AcceptanceISMRM2018_2.pdf, id=1510, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_2.pdf, id=1511, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_2.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf  used on input line 151.
@@ -2251,7 +2256,7 @@ File: Diplomas/AcceptanceISMRM2018_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_2.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf  used on input line 151.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceISMRM2018_2.pdf, id=1513, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_2.pdf, id=1514, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_2.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf , page1 used on input line 151.
@@ -2273,7 +2278,7 @@ File: Diplomas/AcceptanceISMRM2018_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf , page1 used on input line 151.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [86 <./Diplomas/AcceptanceISMRM2018_2.pdf>]
-<Diplomas/AcceptanceISMRM2018_2.pdf, id=1541, page=2, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceISMRM2018_2.pdf, id=1542, page=2, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceISMRM2018_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2018_2.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf , page2 used on input line 151.
@@ -2289,7 +2294,7 @@ Package pdftex.def Info: Diplomas/AcceptanceISMRM2018_2.pdf , page2 used on inpu
  [87 <./Diplomas/AcceptanceISMRM2018_2.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/SFM2017.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/SFM2017.pdf, id=1547, 794.97pt x 614.295pt>
+<Diplomas/SFM2017.pdf, id=1548, 794.97pt x 614.295pt>
 File: Diplomas/SFM2017.pdf Graphic file (type pdf)
 <use Diplomas/SFM2017.pdf>
 Package pdftex.def Info: Diplomas/SFM2017.pdf  used on input line 158.
@@ -2307,7 +2312,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/SFM2017.pdf): PDF inclusion: found PDF
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/SFM2017.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/SFM2017.pdf, id=1550, page=1, 794.97pt x 614.295pt>
+<Diplomas/SFM2017.pdf, id=1551, page=1, 794.97pt x 614.295pt>
 File: Diplomas/SFM2017.pdf Graphic file (type pdf)
 <use Diplomas/SFM2017.pdf, page 1>
 Package pdftex.def Info: Diplomas/SFM2017.pdf , page1 used on input line 158.
@@ -2330,7 +2335,7 @@ File: Diplomas/SFM2017.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/SFM2017.pdf , page1 used on input line 158.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [89 <./Diplomas/SFM2017.pdf>]
-<Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf, id=1582, 611.40419pt x 842.18637pt>
+<Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf, id=1583, 611.40419pt x 842.18637pt>
 File: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf  used on input line 164.
@@ -2339,7 +2344,7 @@ File: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf  used on input line 164.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
-<Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf, id=1585, page=1, 611.40419pt x 842.18637pt>
+<Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf, id=1586, page=1, 611.40419pt x 842.18637pt>
 File: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf Graphic file (type pdf)
 <use Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf, page 1>
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf , page1 used on input line 164.
@@ -2362,7 +2367,7 @@ File: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf , page1 used on input line 164.
 (pdftex.def)             Requested size: 611.40268pt x 842.18431pt.
  [91 <./Diplomas/CertificadoApresentacaoMiniCursoSFM.pdf>]
-<Diplomas/SFM2018.pdf, id=1598, 845.07724pt x 597.55246pt>
+<Diplomas/SFM2018.pdf, id=1599, 845.07724pt x 597.55246pt>
 File: Diplomas/SFM2018.pdf Graphic file (type pdf)
 <use Diplomas/SFM2018.pdf>
 Package pdftex.def Info: Diplomas/SFM2018.pdf  used on input line 170.
@@ -2371,7 +2376,7 @@ File: Diplomas/SFM2018.pdf Graphic file (type pdf)
 <use Diplomas/SFM2018.pdf>
 Package pdftex.def Info: Diplomas/SFM2018.pdf  used on input line 170.
 (pdftex.def)             Requested size: 845.07518pt x 597.551pt.
-<Diplomas/SFM2018.pdf, id=1601, page=1, 845.07724pt x 597.55246pt>
+<Diplomas/SFM2018.pdf, id=1602, page=1, 845.07724pt x 597.55246pt>
 File: Diplomas/SFM2018.pdf Graphic file (type pdf)
 <use Diplomas/SFM2018.pdf, page 1>
 Package pdftex.def Info: Diplomas/SFM2018.pdf , page1 used on input line 170.
@@ -2394,7 +2399,7 @@ File: Diplomas/SFM2018.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/SFM2018.pdf , page1 used on input line 170.
 (pdftex.def)             Requested size: 845.07518pt x 597.551pt.
  [93 <./Diplomas/SFM2018.pdf>]
-<Diplomas/certificate-ISMRMBenelux2019-Andre.pdf, id=1642, 614.295pt x 794.97pt>
+<Diplomas/certificate-ISMRMBenelux2019-Andre.pdf, id=1643, 614.295pt x 794.97pt>
 File: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf Graphic file (type pdf)
 <use Diplomas/certificate-ISMRMBenelux2019-Andre.pdf>
 Package pdftex.def Info: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf  used on input line 176.
@@ -2403,7 +2408,7 @@ File: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf Graphic file (type pdf)
 <use Diplomas/certificate-ISMRMBenelux2019-Andre.pdf>
 Package pdftex.def Info: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf  used on input line 176.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/certificate-ISMRMBenelux2019-Andre.pdf, id=1645, page=1, 614.295pt x 794.97pt>
+<Diplomas/certificate-ISMRMBenelux2019-Andre.pdf, id=1646, page=1, 614.295pt x 794.97pt>
 File: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf Graphic file (type pdf)
 <use Diplomas/certificate-ISMRMBenelux2019-Andre.pdf, page 1>
 Package pdftex.def Info: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf , page1 used on input line 176.
@@ -2428,7 +2433,7 @@ Package pdftex.def Info: Diplomas/certificate-ISMRMBenelux2019-Andre.pdf , page1
  [95 <./Diplomas/certificate-ISMRMBenelux2019-Andre.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/Certificate of Attendance_OHBM-editado.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/Certificate of Attendance_OHBM-editado.pdf, id=1695, 614.295pt x 794.97pt>
+<Diplomas/Certificate of Attendance_OHBM-editado.pdf, id=1696, 614.295pt x 794.97pt>
 File: Diplomas/Certificate of Attendance_OHBM-editado.pdf Graphic file (type pdf)
 <use Diplomas/Certificate of Attendance_OHBM-editado.pdf>
 Package pdftex.def Info: Diplomas/Certificate of Attendance_OHBM-editado.pdf  used on input line 183.
@@ -2446,7 +2451,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/Certificate of Attendance_OHBM-editado
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/Certificate of Attendance_OHBM-editado.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/Certificate of Attendance_OHBM-editado.pdf, id=1698, page=1, 614.295pt x 794.97pt>
+<Diplomas/Certificate of Attendance_OHBM-editado.pdf, id=1699, page=1, 614.295pt x 794.97pt>
 File: Diplomas/Certificate of Attendance_OHBM-editado.pdf Graphic file (type pdf)
 <use Diplomas/Certificate of Attendance_OHBM-editado.pdf, page 1>
 Package pdftex.def Info: Diplomas/Certificate of Attendance_OHBM-editado.pdf , page1 used on input line 183.
@@ -2504,7 +2509,7 @@ File: Diplomas/OHBMtravelAward.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/OHBMtravelAward.pdf , page1 used on input line 184.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 [98]
-<Diplomas/AcceptanceOHBM2019.pdf, id=1735, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceOHBM2019.pdf, id=1736, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceOHBM2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2019.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2019.pdf  used on input line 185.
@@ -2513,7 +2518,7 @@ File: Diplomas/AcceptanceOHBM2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2019.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2019.pdf  used on input line 185.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceOHBM2019.pdf, id=1738, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceOHBM2019.pdf, id=1739, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceOHBM2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2019.pdf , page1 used on input line 185.
@@ -2537,7 +2542,7 @@ Package pdftex.def Info: Diplomas/AcceptanceOHBM2019.pdf , page1 used on input l
  [99 <./Diplomas/AcceptanceOHBM2019.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/SFM2019.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/SFM2019.pdf, id=1767, 845.07718pt x 597.55246pt>
+<Diplomas/SFM2019.pdf, id=1768, 845.07718pt x 597.55246pt>
 File: Diplomas/SFM2019.pdf Graphic file (type pdf)
 <use Diplomas/SFM2019.pdf>
 Package pdftex.def Info: Diplomas/SFM2019.pdf  used on input line 191.
@@ -2555,7 +2560,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/SFM2019.pdf): PDF inclusion: found PDF
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/SFM2019.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/SFM2019.pdf, id=1770, page=1, 845.07718pt x 597.55246pt>
+<Diplomas/SFM2019.pdf, id=1771, page=1, 845.07718pt x 597.55246pt>
 File: Diplomas/SFM2019.pdf Graphic file (type pdf)
 <use Diplomas/SFM2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/SFM2019.pdf , page1 used on input line 191.
@@ -2580,7 +2585,7 @@ Package pdftex.def Info: Diplomas/SFM2019.pdf , page1 used on input line 191.
  [101 <./Diplomas/SFM2019.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/mrtrix3workshop.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/mrtrix3workshop.pdf, id=1829, 845.07718pt x 597.432pt>
+<Diplomas/mrtrix3workshop.pdf, id=1830, 845.07718pt x 597.432pt>
 File: Diplomas/mrtrix3workshop.pdf Graphic file (type pdf)
 <use Diplomas/mrtrix3workshop.pdf>
 Package pdftex.def Info: Diplomas/mrtrix3workshop.pdf  used on input line 197.
@@ -2598,7 +2603,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/mrtrix3workshop.pdf): PDF inclusion: f
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/mrtrix3workshop.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/mrtrix3workshop.pdf, id=1832, page=1, 845.07718pt x 597.432pt>
+<Diplomas/mrtrix3workshop.pdf, id=1833, page=1, 845.07718pt x 597.432pt>
 File: Diplomas/mrtrix3workshop.pdf Graphic file (type pdf)
 <use Diplomas/mrtrix3workshop.pdf, page 1>
 Package pdftex.def Info: Diplomas/mrtrix3workshop.pdf , page1 used on input line 197.
@@ -2623,7 +2628,7 @@ Package pdftex.def Info: Diplomas/mrtrix3workshop.pdf , page1 used on input line
  [103 <./Diplomas/mrtrix3workshop.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_palestrante.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/InBrainWorkshop_palestrante.pdf, id=1873, 845.07718pt x 597.432pt>
+<Diplomas/InBrainWorkshop_palestrante.pdf, id=1874, 845.07718pt x 597.432pt>
 File: Diplomas/InBrainWorkshop_palestrante.pdf Graphic file (type pdf)
 <use Diplomas/InBrainWorkshop_palestrante.pdf>
 Package pdftex.def Info: Diplomas/InBrainWorkshop_palestrante.pdf  used on input line 203.
@@ -2641,7 +2646,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_palestrante.pdf): PDF 
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_palestrante.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/InBrainWorkshop_palestrante.pdf, id=1876, page=1, 845.07718pt x 597.432pt>
+<Diplomas/InBrainWorkshop_palestrante.pdf, id=1877, page=1, 845.07718pt x 597.432pt>
 File: Diplomas/InBrainWorkshop_palestrante.pdf Graphic file (type pdf)
 <use Diplomas/InBrainWorkshop_palestrante.pdf, page 1>
 Package pdftex.def Info: Diplomas/InBrainWorkshop_palestrante.pdf , page1 used on input line 203.
@@ -2664,7 +2669,7 @@ File: Diplomas/InBrainWorkshop_palestrante.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/InBrainWorkshop_palestrante.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.43054pt.
  [105 <./Diplomas/InBrainWorkshop_palestrante.pdf>]
-<Diplomas/ISMRM2020.pdf, id=1929, 794.97pt x 614.295pt>
+<Diplomas/ISMRM2020.pdf, id=1930, 794.97pt x 614.295pt>
 File: Diplomas/ISMRM2020.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2020.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2020.pdf  used on input line 211.
@@ -2673,7 +2678,7 @@ File: Diplomas/ISMRM2020.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2020.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2020.pdf  used on input line 211.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-<Diplomas/ISMRM2020.pdf, id=1932, page=1, 794.97pt x 614.295pt>
+<Diplomas/ISMRM2020.pdf, id=1933, page=1, 794.97pt x 614.295pt>
 File: Diplomas/ISMRM2020.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2020.pdf, page 1>
 Package pdftex.def Info: Diplomas/ISMRM2020.pdf , page1 used on input line 211.
@@ -2701,7 +2706,7 @@ File: Diplomas/ISMRM2020.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/ISMRM2020.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [107 <./Diplomas/ISMRM2020.pdf>]
-<Diplomas/ESMRMB2020.pdf, id=1973, 597.23125pt x 845.1575pt>
+<Diplomas/ESMRMB2020.pdf, id=1974, 597.23125pt x 845.1575pt>
 File: Diplomas/ESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/ESMRMB2020.pdf>
 Package pdftex.def Info: Diplomas/ESMRMB2020.pdf  used on input line 220.
@@ -2710,7 +2715,7 @@ File: Diplomas/ESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/ESMRMB2020.pdf>
 Package pdftex.def Info: Diplomas/ESMRMB2020.pdf  used on input line 220.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Diplomas/ESMRMB2020.pdf, id=1976, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/ESMRMB2020.pdf, id=1977, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/ESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/ESMRMB2020.pdf, page 1>
 Package pdftex.def Info: Diplomas/ESMRMB2020.pdf , page1 used on input line 220.
@@ -2733,7 +2738,7 @@ File: Diplomas/ESMRMB2020.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/ESMRMB2020.pdf , page1 used on input line 220.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [109 <./Diplomas/ESMRMB2020.pdf>]
-<Diplomas/AcceptanceESMRMB2020.pdf, id=2003, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceESMRMB2020.pdf, id=2004, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2020.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2020.pdf  used on input line 221.
@@ -2742,7 +2747,7 @@ File: Diplomas/AcceptanceESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2020.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2020.pdf  used on input line 221.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<Diplomas/AcceptanceESMRMB2020.pdf, id=2006, page=1, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceESMRMB2020.pdf, id=2007, page=1, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceESMRMB2020.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2020.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2020.pdf , page1 used on input line 221.
@@ -2764,7 +2769,7 @@ File: Diplomas/AcceptanceESMRMB2020.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2020.pdf , page1 used on input line 221.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [110 <./Diplomas/AcceptanceESMRMB2020.pdf>]
-<Diplomas/ISMRM2021.pdf, id=2059, 794.97pt x 614.295pt>
+<Diplomas/ISMRM2021.pdf, id=2060, 794.97pt x 614.295pt>
 File: Diplomas/ISMRM2021.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2021.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2021.pdf  used on input line 229.
@@ -2773,7 +2778,7 @@ File: Diplomas/ISMRM2021.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2021.pdf>
 Package pdftex.def Info: Diplomas/ISMRM2021.pdf  used on input line 229.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-<Diplomas/ISMRM2021.pdf, id=2062, page=1, 794.97pt x 614.295pt>
+<Diplomas/ISMRM2021.pdf, id=2063, page=1, 794.97pt x 614.295pt>
 File: Diplomas/ISMRM2021.pdf Graphic file (type pdf)
 <use Diplomas/ISMRM2021.pdf, page 1>
 Package pdftex.def Info: Diplomas/ISMRM2021.pdf , page1 used on input line 229.
@@ -2796,7 +2801,7 @@ File: Diplomas/ISMRM2021.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/ISMRM2021.pdf , page1 used on input line 229.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [112 <./Diplomas/ISMRM2021.pdf>]
-<Diplomas/AcceptanceISMRM2021_1.pdf, id=2104, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_1.pdf, id=2105, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_1.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf  used on input line 230.
@@ -2805,7 +2810,7 @@ File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_1.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf  used on input line 230.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<Diplomas/AcceptanceISMRM2021_1.pdf, id=2107, page=1, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_1.pdf, id=2108, page=1, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_1.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf , page1 used on input line 230.
@@ -2827,7 +2832,7 @@ File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf , page1 used on input line 230.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [113 <./Diplomas/AcceptanceISMRM2021_1.pdf>]
-<Diplomas/AcceptanceISMRM2021_1.pdf, id=2159, page=2, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_1.pdf, id=2160, page=2, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_1.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf , page2 used on input line 230.
@@ -2841,7 +2846,7 @@ File: Diplomas/AcceptanceISMRM2021_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_1.pdf , page2 used on input line 230.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [114 <./Diplomas/AcceptanceISMRM2021_1.pdf>]
-<Diplomas/AcceptanceISMRM2021_2.pdf, id=2166, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_2.pdf, id=2167, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_2.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf  used on input line 231.
@@ -2850,7 +2855,7 @@ File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_2.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf  used on input line 231.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<Diplomas/AcceptanceISMRM2021_2.pdf, id=2169, page=1, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_2.pdf, id=2170, page=1, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_2.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf , page1 used on input line 231.
@@ -2872,7 +2877,7 @@ File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf , page1 used on input line 231.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [115 <./Diplomas/AcceptanceISMRM2021_2.pdf>]
-<Diplomas/AcceptanceISMRM2021_2.pdf, id=2221, page=2, 598.235pt x 845.1575pt>
+<Diplomas/AcceptanceISMRM2021_2.pdf, id=2222, page=2, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceISMRM2021_2.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf , page2 used on input line 231.
@@ -2886,7 +2891,7 @@ File: Diplomas/AcceptanceISMRM2021_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceISMRM2021_2.pdf , page2 used on input line 231.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [116 <./Diplomas/AcceptanceISMRM2021_2.pdf>]
-<Diplomas/JPR2021_1.pdf, id=2227, 845.1575pt x 597.23125pt>
+<Diplomas/JPR2021_1.pdf, id=2228, 845.1575pt x 597.23125pt>
 File: Diplomas/JPR2021_1.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_1.pdf>
 Package pdftex.def Info: Diplomas/JPR2021_1.pdf  used on input line 239.
@@ -2895,7 +2900,7 @@ File: Diplomas/JPR2021_1.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_1.pdf>
 Package pdftex.def Info: Diplomas/JPR2021_1.pdf  used on input line 239.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
-<Diplomas/JPR2021_1.pdf, id=2230, page=1, 845.1575pt x 597.23125pt>
+<Diplomas/JPR2021_1.pdf, id=2231, page=1, 845.1575pt x 597.23125pt>
 File: Diplomas/JPR2021_1.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_1.pdf, page 1>
 Package pdftex.def Info: Diplomas/JPR2021_1.pdf , page1 used on input line 239.
@@ -2923,7 +2928,7 @@ File: Diplomas/JPR2021_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/JPR2021_1.pdf , page1 used on input line 239.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
  [118 <./Diplomas/JPR2021_1.pdf, page is rotated 90 degrees>]
-<Diplomas/JPR2021_2.pdf, id=2248, 845.1575pt x 597.23125pt>
+<Diplomas/JPR2021_2.pdf, id=2249, 845.1575pt x 597.23125pt>
 File: Diplomas/JPR2021_2.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_2.pdf>
 Package pdftex.def Info: Diplomas/JPR2021_2.pdf  used on input line 240.
@@ -2932,7 +2937,7 @@ File: Diplomas/JPR2021_2.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_2.pdf>
 Package pdftex.def Info: Diplomas/JPR2021_2.pdf  used on input line 240.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
-<Diplomas/JPR2021_2.pdf, id=2251, page=1, 845.1575pt x 597.23125pt>
+<Diplomas/JPR2021_2.pdf, id=2252, page=1, 845.1575pt x 597.23125pt>
 File: Diplomas/JPR2021_2.pdf Graphic file (type pdf)
 <use Diplomas/JPR2021_2.pdf, page 1>
 Package pdftex.def Info: Diplomas/JPR2021_2.pdf , page1 used on input line 240.
@@ -2956,7 +2961,7 @@ Package pdftex.def Info: Diplomas/JPR2021_2.pdf , page1 used on input line 240.
  [119 <./Diplomas/JPR2021_2.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/PerfusionWorkshop2022_certificate.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/PerfusionWorkshop2022_certificate.pdf, id=2266, 597.50829pt x 845.0471pt>
+<Diplomas/PerfusionWorkshop2022_certificate.pdf, id=2267, 597.50829pt x 845.0471pt>
 File: Diplomas/PerfusionWorkshop2022_certificate.pdf Graphic file (type pdf)
 <use Diplomas/PerfusionWorkshop2022_certificate.pdf>
 Package pdftex.def Info: Diplomas/PerfusionWorkshop2022_certificate.pdf  used on input line 248.
@@ -2974,7 +2979,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/PerfusionWorkshop2022_certificate.pdf)
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/PerfusionWorkshop2022_certificate.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/PerfusionWorkshop2022_certificate.pdf, id=2269, page=1, 597.50829pt x 845.0471pt>
+<Diplomas/PerfusionWorkshop2022_certificate.pdf, id=2270, page=1, 597.50829pt x 845.0471pt>
 File: Diplomas/PerfusionWorkshop2022_certificate.pdf Graphic file (type pdf)
 <use Diplomas/PerfusionWorkshop2022_certificate.pdf, page 1>
 Package pdftex.def Info: Diplomas/PerfusionWorkshop2022_certificate.pdf , page1 used on input line 248.
@@ -3002,7 +3007,7 @@ File: Diplomas/PerfusionWorkshop2022_certificate.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/PerfusionWorkshop2022_certificate.pdf , page1 used on input line 248.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
  [121 <./Diplomas/PerfusionWorkshop2022_certificate.pdf>]
-<Diplomas/AcceptancePWISMRM2022.pdf, id=2285, 598.235pt x 845.1575pt>
+<Diplomas/AcceptancePWISMRM2022.pdf, id=2286, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 <use Diplomas/AcceptancePWISMRM2022.pdf>
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf  used on input line 249.
@@ -3011,7 +3016,7 @@ File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 <use Diplomas/AcceptancePWISMRM2022.pdf>
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf  used on input line 249.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<Diplomas/AcceptancePWISMRM2022.pdf, id=2288, page=1, 598.235pt x 845.1575pt>
+<Diplomas/AcceptancePWISMRM2022.pdf, id=2289, page=1, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 <use Diplomas/AcceptancePWISMRM2022.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf , page1 used on input line 249.
@@ -3033,7 +3038,7 @@ File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf , page1 used on input line 249.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [122 <./Diplomas/AcceptancePWISMRM2022.pdf>]
-<Diplomas/AcceptancePWISMRM2022.pdf, id=2372, page=2, 598.235pt x 845.1575pt>
+<Diplomas/AcceptancePWISMRM2022.pdf, id=2373, page=2, 598.235pt x 845.1575pt>
 File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 <use Diplomas/AcceptancePWISMRM2022.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf , page2 used on input line 249.
@@ -3047,7 +3052,7 @@ File: Diplomas/AcceptancePWISMRM2022.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptancePWISMRM2022.pdf , page2 used on input line 249.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
  [123 <./Diplomas/AcceptancePWISMRM2022.pdf>]
-<Diplomas/mestradoCAPES.pdf, id=2378, 597.23125pt x 845.1575pt>
+<Diplomas/mestradoCAPES.pdf, id=2379, 597.23125pt x 845.1575pt>
 File: Diplomas/mestradoCAPES.pdf Graphic file (type pdf)
 <use Diplomas/mestradoCAPES.pdf>
 Package pdftex.def Info: Diplomas/mestradoCAPES.pdf  used on input line 257.
@@ -3056,7 +3061,7 @@ File: Diplomas/mestradoCAPES.pdf Graphic file (type pdf)
 <use Diplomas/mestradoCAPES.pdf>
 Package pdftex.def Info: Diplomas/mestradoCAPES.pdf  used on input line 257.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Diplomas/mestradoCAPES.pdf, id=2381, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/mestradoCAPES.pdf, id=2382, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/mestradoCAPES.pdf Graphic file (type pdf)
 <use Diplomas/mestradoCAPES.pdf, page 1>
 Package pdftex.def Info: Diplomas/mestradoCAPES.pdf , page1 used on input line 257.
@@ -3084,7 +3089,7 @@ File: Diplomas/mestradoCAPES.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/mestradoCAPES.pdf , page1 used on input line 257.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [125 <./Diplomas/mestradoCAPES.pdf>]
-<Diplomas/CNPq_doutorado.pdf, id=2414, 614.295pt x 794.97pt>
+<Diplomas/CNPq_doutorado.pdf, id=2415, 614.295pt x 794.97pt>
 File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 <use Diplomas/CNPq_doutorado.pdf>
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf  used on input line 263.
@@ -3093,7 +3098,7 @@ File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 <use Diplomas/CNPq_doutorado.pdf>
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf  used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/CNPq_doutorado.pdf, id=2417, page=1, 614.295pt x 794.97pt>
+<Diplomas/CNPq_doutorado.pdf, id=2418, page=1, 614.295pt x 794.97pt>
 File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 <use Diplomas/CNPq_doutorado.pdf, page 1>
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf , page1 used on input line 263.
@@ -3116,7 +3121,7 @@ File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf , page1 used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [127 <./Diplomas/CNPq_doutorado.pdf>]
-<Diplomas/CNPq_doutorado.pdf, id=2459, page=2, 614.295pt x 794.97pt>
+<Diplomas/CNPq_doutorado.pdf, id=2460, page=2, 614.295pt x 794.97pt>
 File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 <use Diplomas/CNPq_doutorado.pdf, page 2>
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf , page2 used on input line 263.
@@ -3130,7 +3135,7 @@ File: Diplomas/CNPq_doutorado.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/CNPq_doutorado.pdf , page2 used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [128 <./Diplomas/CNPq_doutorado.pdf>]
-<Diplomas/Carta de Concessão PDSE.pdf, id=2474, 597.6528pt x 844.84634pt>
+<Diplomas/Carta de Concessão PDSE.pdf, id=2475, 597.6528pt x 844.84634pt>
 File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 <use Diplomas/Carta de Concessão PDSE.pdf>
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf  used on input line 269.
@@ -3139,7 +3144,7 @@ File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 <use Diplomas/Carta de Concessão PDSE.pdf>
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf  used on input line 269.
 (pdftex.def)             Requested size: 597.65135pt x 844.84428pt.
-<Diplomas/Carta de Concessão PDSE.pdf, id=2477, page=1, 597.6528pt x 844.84634pt>
+<Diplomas/Carta de Concessão PDSE.pdf, id=2478, page=1, 597.6528pt x 844.84634pt>
 File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 <use Diplomas/Carta de Concessão PDSE.pdf, page 1>
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf , page1 used on input line 269.
@@ -3162,7 +3167,7 @@ File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf , page1 used on input line 269.
 (pdftex.def)             Requested size: 597.65135pt x 844.84428pt.
  [130 <./Diplomas/Carta de Concessão PDSE.pdf>]
-<Diplomas/Carta de Concessão PDSE.pdf, id=2491, page=2, 597.6528pt x 844.84634pt>
+<Diplomas/Carta de Concessão PDSE.pdf, id=2492, page=2, 597.6528pt x 844.84634pt>
 File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 <use Diplomas/Carta de Concessão PDSE.pdf, page 2>
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf , page2 used on input line 269.
@@ -3176,7 +3181,7 @@ File: Diplomas/Carta de Concessão PDSE.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/Carta de Concessão PDSE.pdf , page2 used on input line 269.
 (pdftex.def)             Requested size: 597.65135pt x 844.84428pt.
  [131 <./Diplomas/Carta de Concessão PDSE.pdf>]
-<Diplomas/termoPDJ.pdf, id=2499, 614.295pt x 794.97pt>
+<Diplomas/termoPDJ.pdf, id=2500, 614.295pt x 794.97pt>
 File: Diplomas/termoPDJ.pdf Graphic file (type pdf)
 <use Diplomas/termoPDJ.pdf>
 Package pdftex.def Info: Diplomas/termoPDJ.pdf  used on input line 276.
@@ -3185,7 +3190,7 @@ File: Diplomas/termoPDJ.pdf Graphic file (type pdf)
 <use Diplomas/termoPDJ.pdf>
 Package pdftex.def Info: Diplomas/termoPDJ.pdf  used on input line 276.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/termoPDJ.pdf, id=2502, page=1, 614.295pt x 794.97pt>
+<Diplomas/termoPDJ.pdf, id=2503, page=1, 614.295pt x 794.97pt>
 File: Diplomas/termoPDJ.pdf Graphic file (type pdf)
 <use Diplomas/termoPDJ.pdf, page 1>
 Package pdftex.def Info: Diplomas/termoPDJ.pdf , page1 used on input line 276.
@@ -3208,7 +3213,7 @@ File: Diplomas/termoPDJ.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/termoPDJ.pdf , page1 used on input line 276.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [133 <./Diplomas/termoPDJ.pdf>]
-<Diplomas/AcceptanceOHBM2015.pdf, id=2543, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceOHBM2015.pdf, id=2544, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2015.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf  used on input line 284.
@@ -3217,7 +3222,7 @@ File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2015.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf  used on input line 284.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceOHBM2015.pdf, id=2546, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceOHBM2015.pdf, id=2547, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2015.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf , page1 used on input line 284.
@@ -3240,7 +3245,7 @@ File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf , page1 used on input line 284.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [135 <./Diplomas/AcceptanceOHBM2015.pdf>]
-<Diplomas/AcceptanceOHBM2015.pdf, id=2578, page=2, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceOHBM2015.pdf, id=2579, page=2, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceOHBM2015.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf , page2 used on input line 284.
@@ -3254,7 +3259,7 @@ File: Diplomas/AcceptanceOHBM2015.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceOHBM2015.pdf , page2 used on input line 284.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [136 <./Diplomas/AcceptanceOHBM2015.pdf>]
-<Diplomas/AceiteCBFM2019.pdf, id=2585, 598.235pt x 846.16125pt>
+<Diplomas/AceiteCBFM2019.pdf, id=2586, 598.235pt x 846.16125pt>
 File: Diplomas/AceiteCBFM2019.pdf Graphic file (type pdf)
 <use Diplomas/AceiteCBFM2019.pdf>
 Package pdftex.def Info: Diplomas/AceiteCBFM2019.pdf  used on input line 290.
@@ -3263,7 +3268,7 @@ File: Diplomas/AceiteCBFM2019.pdf Graphic file (type pdf)
 <use Diplomas/AceiteCBFM2019.pdf>
 Package pdftex.def Info: Diplomas/AceiteCBFM2019.pdf  used on input line 290.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-<Diplomas/AceiteCBFM2019.pdf, id=2588, page=1, 598.235pt x 846.16125pt>
+<Diplomas/AceiteCBFM2019.pdf, id=2589, page=1, 598.235pt x 846.16125pt>
 File: Diplomas/AceiteCBFM2019.pdf Graphic file (type pdf)
 <use Diplomas/AceiteCBFM2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/AceiteCBFM2019.pdf , page1 used on input line 290.
@@ -3289,7 +3294,7 @@ Package pdftex.def Info: Diplomas/AceiteCBFM2019.pdf , page1 used on input line 
 
 pdfTeX warning: pdflatex (file ./Diplomas/AceiteCBFM2019.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Diplomas/AcceptanceESMRMB2019.pdf, id=2617, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceESMRMB2019.pdf, id=2618, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceESMRMB2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2019.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2019.pdf  used on input line 296.
@@ -3298,7 +3303,7 @@ File: Diplomas/AcceptanceESMRMB2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2019.pdf>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2019.pdf  used on input line 296.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<Diplomas/AcceptanceESMRMB2019.pdf, id=2620, page=1, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceESMRMB2019.pdf, id=2621, page=1, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceESMRMB2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2019.pdf , page1 used on input line 296.
@@ -3321,7 +3326,7 @@ File: Diplomas/AcceptanceESMRMB2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2019.pdf , page1 used on input line 296.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
  [140 <./Diplomas/AcceptanceESMRMB2019.pdf>]
-<Diplomas/AcceptanceESMRMB2019.pdf, id=2670, page=2, 597.23125pt x 844.15375pt>
+<Diplomas/AcceptanceESMRMB2019.pdf, id=2671, page=2, 597.23125pt x 844.15375pt>
 File: Diplomas/AcceptanceESMRMB2019.pdf Graphic file (type pdf)
 <use Diplomas/AcceptanceESMRMB2019.pdf, page 2>
 Package pdftex.def Info: Diplomas/AcceptanceESMRMB2019.pdf , page2 used on input line 296.
@@ -3339,7 +3344,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 301--301
 [][][][]|[]\T1/cmr/bx/n/12 Autoria de ar-ti-gos com-ple-tos pub-li-ca-dos em jor-nais e re-vis-tas de
  []
 
-<docs/PaivaRBFM2013.pdf, id=2676, 597.50829pt x 796.67737pt>
+<docs/PaivaRBFM2013.pdf, id=2677, 597.50829pt x 796.67737pt>
 File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf  used on input line 304.
@@ -3348,7 +3353,7 @@ File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf  used on input line 304.
 (pdftex.def)             Requested size: 597.50682pt x 796.67543pt.
-<docs/PaivaRBFM2013.pdf, id=2679, page=1, 597.50829pt x 796.67737pt>
+<docs/PaivaRBFM2013.pdf, id=2680, page=1, 597.50829pt x 796.67737pt>
 File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf, page 1>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page1 used on input line 304.
@@ -3371,7 +3376,7 @@ File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page1 used on input line 304.
 (pdftex.def)             Requested size: 597.50682pt x 796.67543pt.
  [143 <./docs/PaivaRBFM2013.pdf>]
-<docs/PaivaRBFM2013.pdf, id=2756, page=2, 597.50829pt x 796.67737pt>
+<docs/PaivaRBFM2013.pdf, id=2757, page=2, 597.50829pt x 796.67737pt>
 File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf, page 2>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page2 used on input line 304.
@@ -3385,7 +3390,7 @@ File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page2 used on input line 304.
 (pdftex.def)             Requested size: 597.50682pt x 796.67543pt.
  [144 <./docs/PaivaRBFM2013.pdf>]
-<docs/PaivaRBFM2013.pdf, id=2777, page=3, 597.50829pt x 796.67737pt>
+<docs/PaivaRBFM2013.pdf, id=2778, page=3, 597.50829pt x 796.67737pt>
 File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf, page 3>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page3 used on input line 304.
@@ -3399,7 +3404,7 @@ File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page3 used on input line 304.
 (pdftex.def)             Requested size: 597.50682pt x 796.67543pt.
  [145 <./docs/PaivaRBFM2013.pdf>]
-<docs/PaivaRBFM2013.pdf, id=2944, page=4, 597.50829pt x 796.67737pt>
+<docs/PaivaRBFM2013.pdf, id=2945, page=4, 597.50829pt x 796.67737pt>
 File: docs/PaivaRBFM2013.pdf Graphic file (type pdf)
 <use docs/PaivaRBFM2013.pdf, page 4>
 Package pdftex.def Info: docs/PaivaRBFM2013.pdf , page4 used on input line 304.
@@ -3420,7 +3425,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 307--307
 
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=2949, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=2950, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf>
 Package pdftex.def Info: docs/silvamri2018.pdf  used on input line 310.
@@ -3438,7 +3443,7 @@ pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PD
 
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=2952, page=1, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=2953, page=1, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 1>
 Package pdftex.def Info: docs/silvamri2018.pdf , page1 used on input line 310.
@@ -3463,7 +3468,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page1 used on input line 310.
  [148 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3010, page=2, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3011, page=2, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 2>
 Package pdftex.def Info: docs/silvamri2018.pdf , page2 used on input line 310.
@@ -3479,7 +3484,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page2 used on input line 310.
 [149 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3024, page=3, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3025, page=3, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 3>
 Package pdftex.def Info: docs/silvamri2018.pdf , page3 used on input line 310.
@@ -3495,7 +3500,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page3 used on input line 310.
 [150 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3031, page=4, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3032, page=4, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 4>
 Package pdftex.def Info: docs/silvamri2018.pdf , page4 used on input line 310.
@@ -3511,7 +3516,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page4 used on input line 310.
 [151 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3037, page=5, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3038, page=5, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 5>
 Package pdftex.def Info: docs/silvamri2018.pdf , page5 used on input line 310.
@@ -3527,7 +3532,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page5 used on input line 310.
 [152 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3044, page=6, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3045, page=6, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 6>
 Package pdftex.def Info: docs/silvamri2018.pdf , page6 used on input line 310.
@@ -3543,7 +3548,7 @@ Package pdftex.def Info: docs/silvamri2018.pdf , page6 used on input line 310.
 [153 <./docs/silvamri2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/silvamri2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/silvamri2018.pdf, id=3055, page=7, 597.50829pt x 796.67737pt>
+<docs/silvamri2018.pdf, id=3056, page=7, 597.50829pt x 796.67737pt>
 File: docs/silvamri2018.pdf Graphic file (type pdf)
 <use docs/silvamri2018.pdf, page 7>
 Package pdftex.def Info: docs/silvamri2018.pdf , page7 used on input line 310.
@@ -3564,7 +3569,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 313--313
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3060, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3061, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf  used on input line 316.
@@ -3582,7 +3587,7 @@ pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF incl
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3063, page=1, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3064, page=1, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 1>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page1 used on input line 316.
@@ -3607,7 +3612,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page1 used on in
  [156 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3129, page=2, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3130, page=2, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 2>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page2 used on input line 316.
@@ -3623,7 +3628,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page2 used on in
 [157 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3174, page=3, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3175, page=3, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 3>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page3 used on input line 316.
@@ -3639,7 +3644,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page3 used on in
 [158 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3185, page=4, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3186, page=4, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 4>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page4 used on input line 316.
@@ -3655,7 +3660,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page4 used on in
 [159 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3196, page=5, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3197, page=5, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 5>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page5 used on input line 316.
@@ -3671,7 +3676,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page5 used on in
 [160 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3203, page=6, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3204, page=6, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 6>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page6 used on input line 316.
@@ -3687,7 +3692,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page6 used on in
 [161 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3209, page=7, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3210, page=7, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 7>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page7 used on input line 316.
@@ -3703,7 +3708,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page7 used on in
 [162 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3221, page=8, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3222, page=8, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 8>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page8 used on input line 316.
@@ -3719,7 +3724,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page8 used on in
 [163 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3231, page=9, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3232, page=9, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 9>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page9 used on input line 316.
@@ -3735,7 +3740,7 @@ Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page9 used on in
 [164 <./docs/Paschoal_NeuroImageClin2018.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal_NeuroImageClin2018.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/Paschoal_NeuroImageClin2018.pdf, id=3236, page=10, 597.50829pt x 796.67737pt>
+<docs/Paschoal_NeuroImageClin2018.pdf, id=3237, page=10, 597.50829pt x 796.67737pt>
 File: docs/Paschoal_NeuroImageClin2018.pdf Graphic file (type pdf)
 <use docs/Paschoal_NeuroImageClin2018.pdf, page 10>
 Package pdftex.def Info: docs/Paschoal_NeuroImageClin2018.pdf , page10 used on input line 316.
@@ -3753,7 +3758,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 319--319
 [][][][]|[]\T1/cmr/bx/n/12 Autoria de ar-ti-gos com-ple-tos pub-li-ca-dos em jor-nais e re-vis-tas de
  []
 
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3241, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3242, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf  used on input line 322.
@@ -3762,7 +3767,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf  used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3244, page=1, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3245, page=1, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 1>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page1 used on input line 322.
@@ -3785,7 +3790,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page1 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [167 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3289, page=2, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3290, page=2, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 2>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page2 used on input line 322.
@@ -3799,7 +3804,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page2 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [168 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3313, page=3, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3314, page=3, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 3>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page3 used on input line 322.
@@ -3813,7 +3818,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page3 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [169 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3318, page=4, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3319, page=4, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 4>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page4 used on input line 322.
@@ -3827,7 +3832,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page4 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [170 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3346, page=5, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3347, page=5, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 5>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page5 used on input line 322.
@@ -3841,7 +3846,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page5 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [171 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3367, page=6, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3368, page=6, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 6>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page6 used on input line 322.
@@ -3855,7 +3860,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page6 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [172 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3384, page=7, 602.30017pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3385, page=7, 602.30017pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 7>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page7 used on input line 322.
@@ -3869,7 +3874,7 @@ File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page7 used on input line 322.
 (pdftex.def)             Requested size: 602.29869pt x 802.99805pt.
  [173 <./docs/Paschoal_ConceptsPartA2019.pdf>]
-<docs/Paschoal_ConceptsPartA2019.pdf, id=3389, page=8, 602.25pt x 803.0pt>
+<docs/Paschoal_ConceptsPartA2019.pdf, id=3390, page=8, 602.25pt x 803.0pt>
 File: docs/Paschoal_ConceptsPartA2019.pdf Graphic file (type pdf)
 <use docs/Paschoal_ConceptsPartA2019.pdf, page 8>
 Package pdftex.def Info: docs/Paschoal_ConceptsPartA2019.pdf , page8 used on input line 322.
@@ -3890,7 +3895,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 325--325
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3580, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3581, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf  used on input line 328.
@@ -3908,7 +3913,7 @@ pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationI
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3583, page=1, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3584, page=1, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 1>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page1 used on input line 328.
@@ -3933,7 +3938,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
  [176 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3641, page=2, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3642, page=2, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 2>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page2 used on input line 328.
@@ -3949,7 +3954,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [177 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3730, page=3, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3731, page=3, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 3>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page3 used on input line 328.
@@ -3965,7 +3970,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [178 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3736, page=4, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3737, page=4, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 4>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page4 used on input line 328.
@@ -3981,7 +3986,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [179 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3747, page=5, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3748, page=5, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 5>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page5 used on input line 328.
@@ -3997,7 +4002,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [180 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3755, page=6, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3756, page=6, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 6>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page6 used on input line 328.
@@ -4013,7 +4018,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [181 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3762, page=7, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3763, page=7, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 7>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page7 used on input line 328.
@@ -4029,7 +4034,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [182 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3770, page=8, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3771, page=8, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 8>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page8 used on input line 328.
@@ -4045,7 +4050,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [183 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3779, page=9, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3780, page=9, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 9>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page9 used on input line 328.
@@ -4061,7 +4066,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [184 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3788, page=10, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3789, page=10, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 10>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page10 used on input line 328.
@@ -4077,7 +4082,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [185 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3797, page=11, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3798, page=11, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 11>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page11 used on input line 328.
@@ -4093,7 +4098,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [186 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3805, page=12, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3806, page=12, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 12>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page12 used on input line 328.
@@ -4109,7 +4114,7 @@ Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArteria
 [187 <./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3810, page=13, 597.50829pt x 793.83177pt>
+<docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, id=3811, page=13, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf Graphic file (type pdf)
 <use docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf, page 13>
 Package pdftex.def Info: docs/Paschoal2020_Article_ContrastOptimizationInArterial.pdf , page13 used on input line 328.
@@ -4130,7 +4135,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 331--331
 
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3815, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3816, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf>
 Package pdftex.def Info: docs/mrm.28807.pdf  used on input line 334.
@@ -4148,7 +4153,7 @@ pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF v
 
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3818, page=1, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3819, page=1, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 1>
 Package pdftex.def Info: docs/mrm.28807.pdf , page1 used on input line 334.
@@ -4173,7 +4178,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page1 used on input line 334.
  [190 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3853, page=2, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3854, page=2, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 2>
 Package pdftex.def Info: docs/mrm.28807.pdf , page2 used on input line 334.
@@ -4189,7 +4194,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page2 used on input line 334.
 [191 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3866, page=3, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3867, page=3, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 3>
 Package pdftex.def Info: docs/mrm.28807.pdf , page3 used on input line 334.
@@ -4205,7 +4210,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page3 used on input line 334.
 [192 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3880, page=4, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3881, page=4, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 4>
 Package pdftex.def Info: docs/mrm.28807.pdf , page4 used on input line 334.
@@ -4221,7 +4226,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page4 used on input line 334.
 [193 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3905, page=5, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3906, page=5, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 5>
 Package pdftex.def Info: docs/mrm.28807.pdf , page5 used on input line 334.
@@ -4237,7 +4242,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page5 used on input line 334.
 [194 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3932, page=6, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3933, page=6, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 6>
 Package pdftex.def Info: docs/mrm.28807.pdf , page6 used on input line 334.
@@ -4253,7 +4258,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page6 used on input line 334.
 [195 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3941, page=7, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3942, page=7, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 7>
 Package pdftex.def Info: docs/mrm.28807.pdf , page7 used on input line 334.
@@ -4269,7 +4274,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page7 used on input line 334.
 [196 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3950, page=8, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3951, page=8, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 8>
 Package pdftex.def Info: docs/mrm.28807.pdf , page8 used on input line 334.
@@ -4285,7 +4290,7 @@ Package pdftex.def Info: docs/mrm.28807.pdf , page8 used on input line 334.
 [197 <./docs/mrm.28807.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/mrm.28807.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/mrm.28807.pdf, id=3963, page=9, 597.50829pt x 785.29585pt>
+<docs/mrm.28807.pdf, id=3964, page=9, 597.50829pt x 785.29585pt>
 File: docs/mrm.28807.pdf Graphic file (type pdf)
 <use docs/mrm.28807.pdf, page 9>
 Package pdftex.def Info: docs/mrm.28807.pdf , page9 used on input line 334.
@@ -4306,7 +4311,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 337--337
 
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=3971, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=3972, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf  used on input line 340.
@@ -4324,7 +4329,7 @@ pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found
 
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=3974, page=1, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=3975, page=1, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 1>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page1 used on input line 340.
@@ -4349,7 +4354,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page1 used on input line 340
  [200 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4062, page=2, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4063, page=2, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 2>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page2 used on input line 340.
@@ -4365,7 +4370,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page2 used on input line 340
 [201 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4073, page=3, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4074, page=3, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 3>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page3 used on input line 340.
@@ -4381,7 +4386,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page3 used on input line 340
 [202 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4096, page=4, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4097, page=4, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 4>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page4 used on input line 340.
@@ -4397,7 +4402,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page4 used on input line 340
 [203 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4108, page=5, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4109, page=5, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 5>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page5 used on input line 340.
@@ -4413,7 +4418,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page5 used on input line 340
 [204 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4114, page=6, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4115, page=6, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 6>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page6 used on input line 340.
@@ -4429,7 +4434,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page6 used on input line 340
 [205 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4127, page=7, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4128, page=7, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 7>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page7 used on input line 340.
@@ -4445,7 +4450,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page7 used on input line 340
 [206 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4140, page=8, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4141, page=8, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 8>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page8 used on input line 340.
@@ -4461,7 +4466,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page8 used on input line 340
 [207 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4149, page=9, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4150, page=9, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 9>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page9 used on input line 340.
@@ -4477,7 +4482,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page9 used on input line 340
 [208 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4158, page=10, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4159, page=10, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 10>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page10 used on input line 340.
@@ -4493,7 +4498,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page10 used on input line 34
 [209 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4194, page=11, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4195, page=11, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 11>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page11 used on input line 340.
@@ -4509,7 +4514,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page11 used on input line 34
 [210 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4200, page=12, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4201, page=12, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 12>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page12 used on input line 340.
@@ -4525,7 +4530,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page12 used on input line 34
 [211 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4209, page=13, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4210, page=13, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 13>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page13 used on input line 340.
@@ -4541,7 +4546,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page13 used on input line 34
 [212 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4214, page=14, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4215, page=14, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 14>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page14 used on input line 340.
@@ -4557,7 +4562,7 @@ Package pdftex.def Info: docs/jne_18_4_046089.pdf , page14 used on input line 34
 [213 <./docs/jne_18_4_046089.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jne_18_4_046089.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jne_18_4_046089.pdf, id=4219, page=15, 597.51233pt x 845.0471pt>
+<docs/jne_18_4_046089.pdf, id=4220, page=15, 597.51233pt x 845.0471pt>
 File: docs/jne_18_4_046089.pdf Graphic file (type pdf)
 <use docs/jne_18_4_046089.pdf, page 15>
 Package pdftex.def Info: docs/jne_18_4_046089.pdf , page15 used on input line 340.
@@ -4578,7 +4583,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 343--343
 
 
 pdfTeX warning: pdflatex (file ./docs/jmri.27899.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jmri.27899.pdf, id=4230, 597.50829pt x 793.83177pt>
+<docs/jmri.27899.pdf, id=4231, 597.50829pt x 793.83177pt>
 File: docs/jmri.27899.pdf Graphic file (type pdf)
 <use docs/jmri.27899.pdf>
 Package pdftex.def Info: docs/jmri.27899.pdf  used on input line 346.
@@ -4596,7 +4601,7 @@ pdfTeX warning: pdflatex (file ./docs/jmri.27899.pdf): PDF inclusion: found PDF 
 
 
 pdfTeX warning: pdflatex (file ./docs/jmri.27899.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jmri.27899.pdf, id=4233, page=1, 597.50829pt x 793.83177pt>
+<docs/jmri.27899.pdf, id=4234, page=1, 597.50829pt x 793.83177pt>
 File: docs/jmri.27899.pdf Graphic file (type pdf)
 <use docs/jmri.27899.pdf, page 1>
 Package pdftex.def Info: docs/jmri.27899.pdf , page1 used on input line 346.
@@ -4621,7 +4626,7 @@ Package pdftex.def Info: docs/jmri.27899.pdf , page1 used on input line 346.
  [216 <./docs/jmri.27899.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/jmri.27899.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<docs/jmri.27899.pdf, id=4279, page=2, 597.50829pt x 793.83177pt>
+<docs/jmri.27899.pdf, id=4280, page=2, 597.50829pt x 793.83177pt>
 File: docs/jmri.27899.pdf Graphic file (type pdf)
 <use docs/jmri.27899.pdf, page 2>
 Package pdftex.def Info: docs/jmri.27899.pdf , page2 used on input line 346.
@@ -4642,7 +4647,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 349--349
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4299, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4300, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf  used on input line 352.
@@ -4660,7 +4665,7 @@ pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravox
 
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4302, page=1, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4303, page=1, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 1>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page1 used on input line 352.
@@ -4685,7 +4690,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
  [219 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4355, page=2, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4356, page=2, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 2>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page2 used on input line 352.
@@ -4701,7 +4706,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [220 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4366, page=3, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4367, page=3, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 3>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page3 used on input line 352.
@@ -4717,7 +4722,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [221 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4389, page=4, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4390, page=4, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 4>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page4 used on input line 352.
@@ -4733,7 +4738,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [222 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4401, page=5, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4402, page=5, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 5>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page5 used on input line 352.
@@ -4749,7 +4754,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [223 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4408, page=6, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4409, page=6, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 6>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page6 used on input line 352.
@@ -4765,7 +4770,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [224 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4417, page=7, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4418, page=7, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 7>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page7 used on input line 352.
@@ -4781,7 +4786,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [225 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4426, page=8, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4427, page=8, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 8>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page8 used on input line 352.
@@ -4797,7 +4802,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [226 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4435, page=9, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4436, page=9, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 9>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page9 used on input line 352.
@@ -4813,7 +4818,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [227 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4440, page=10, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4441, page=10, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 10>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page10 used on input line 352.
@@ -4829,7 +4834,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [228 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4446, page=11, 597.50829pt x 793.83177pt>
+<docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, id=4447, page=11, 597.50829pt x 793.83177pt>
 File: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf Graphic file (type pdf)
 <use docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf, page 11>
 Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf , page11 used on input line 352.
@@ -4845,7 +4850,7 @@ Package pdftex.def Info: docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncohe
 [229 <./docs/Paschoal2022_Article_FeasibilityOfIntravoxelIncoher.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/MonitoriaIFSC.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/MonitoriaIFSC.pdf, id=4451, 597.23125pt x 845.1575pt>
+<Diplomas/MonitoriaIFSC.pdf, id=4452, 597.23125pt x 845.1575pt>
 File: Diplomas/MonitoriaIFSC.pdf Graphic file (type pdf)
 <use Diplomas/MonitoriaIFSC.pdf>
 Package pdftex.def Info: Diplomas/MonitoriaIFSC.pdf  used on input line 360.
@@ -4863,7 +4868,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/MonitoriaIFSC.pdf): PDF inclusion: fou
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/MonitoriaIFSC.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/MonitoriaIFSC.pdf, id=4454, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/MonitoriaIFSC.pdf, id=4455, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/MonitoriaIFSC.pdf Graphic file (type pdf)
 <use Diplomas/MonitoriaIFSC.pdf, page 1>
 Package pdftex.def Info: Diplomas/MonitoriaIFSC.pdf , page1 used on input line 360.
@@ -4891,7 +4896,7 @@ File: Diplomas/MonitoriaIFSC.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/MonitoriaIFSC.pdf , page1 used on input line 360.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [231 <./Diplomas/MonitoriaIFSC.pdf>]
-<Diplomas/monitoriaPIM_2017_1FFCLRP.pdf, id=4468, 597.55246pt x 845.19763pt>
+<Diplomas/monitoriaPIM_2017_1FFCLRP.pdf, id=4469, 597.55246pt x 845.19763pt>
 File: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPIM_2017_1FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf  used on input line 366.
@@ -4900,7 +4905,7 @@ File: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPIM_2017_1FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf  used on input line 366.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-<Diplomas/monitoriaPIM_2017_1FFCLRP.pdf, id=4471, page=1, 597.55246pt x 845.19763pt>
+<Diplomas/monitoriaPIM_2017_1FFCLRP.pdf, id=4472, page=1, 597.55246pt x 845.19763pt>
 File: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPIM_2017_1FFCLRP.pdf, page 1>
 Package pdftex.def Info: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf , page1 used on input line 366.
@@ -4928,7 +4933,7 @@ File: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/monitoriaPIM_2017_1FFCLRP.pdf , page1 used on input line 366.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
  [233 <./Diplomas/monitoriaPIM_2017_1FFCLRP.pdf>]
-<Diplomas/monitoriaPAE_2017_2FFCLRP.pdf, id=4501, 614.295pt x 794.97pt>
+<Diplomas/monitoriaPAE_2017_2FFCLRP.pdf, id=4502, 614.295pt x 794.97pt>
 File: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2017_2FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf  used on input line 372.
@@ -4937,7 +4942,7 @@ File: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2017_2FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf  used on input line 372.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/monitoriaPAE_2017_2FFCLRP.pdf, id=4504, page=1, 614.295pt x 794.97pt>
+<Diplomas/monitoriaPAE_2017_2FFCLRP.pdf, id=4505, page=1, 614.295pt x 794.97pt>
 File: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2017_2FFCLRP.pdf, page 1>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf , page1 used on input line 372.
@@ -4965,7 +4970,7 @@ File: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/monitoriaPAE_2017_2FFCLRP.pdf , page1 used on input line 372.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [235 <./Diplomas/monitoriaPAE_2017_2FFCLRP.pdf>]
-<Diplomas/monitoriaPAE_2019_2FFCLRP.pdf, id=4522, 614.295pt x 794.97pt>
+<Diplomas/monitoriaPAE_2019_2FFCLRP.pdf, id=4523, 614.295pt x 794.97pt>
 File: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2019_2FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf  used on input line 378.
@@ -4974,7 +4979,7 @@ File: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2019_2FFCLRP.pdf>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf  used on input line 378.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Diplomas/monitoriaPAE_2019_2FFCLRP.pdf, id=4525, page=1, 614.295pt x 794.97pt>
+<Diplomas/monitoriaPAE_2019_2FFCLRP.pdf, id=4526, page=1, 614.295pt x 794.97pt>
 File: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf Graphic file (type pdf)
 <use Diplomas/monitoriaPAE_2019_2FFCLRP.pdf, page 1>
 Package pdftex.def Info: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf , page1 used on input line 378.
@@ -5002,7 +5007,7 @@ File: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/monitoriaPAE_2019_2FFCLRP.pdf , page1 used on input line 378.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [237 <./Diplomas/monitoriaPAE_2019_2FFCLRP.pdf>]
-<Diplomas/certificado_siicusp.pdf, id=4542, 597.23125pt x 845.1575pt>
+<Diplomas/certificado_siicusp.pdf, id=4543, 597.23125pt x 845.1575pt>
 File: Diplomas/certificado_siicusp.pdf Graphic file (type pdf)
 <use Diplomas/certificado_siicusp.pdf>
 Package pdftex.def Info: Diplomas/certificado_siicusp.pdf  used on input line 386.
@@ -5011,7 +5016,7 @@ File: Diplomas/certificado_siicusp.pdf Graphic file (type pdf)
 <use Diplomas/certificado_siicusp.pdf>
 Package pdftex.def Info: Diplomas/certificado_siicusp.pdf  used on input line 386.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Diplomas/certificado_siicusp.pdf, id=4545, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/certificado_siicusp.pdf, id=4546, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/certificado_siicusp.pdf Graphic file (type pdf)
 <use Diplomas/certificado_siicusp.pdf, page 1>
 Package pdftex.def Info: Diplomas/certificado_siicusp.pdf , page1 used on input line 386.
@@ -5036,7 +5041,7 @@ Package pdftex.def Info: Diplomas/certificado_siicusp.pdf , page1 used on input 
  [239 <./Diplomas/certificado_siicusp.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/certificadoAvaliador_SFM2019.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/certificadoAvaliador_SFM2019.pdf, id=4559, 845.07718pt x 600.32281pt>
+<Diplomas/certificadoAvaliador_SFM2019.pdf, id=4560, 845.07718pt x 600.32281pt>
 File: Diplomas/certificadoAvaliador_SFM2019.pdf Graphic file (type pdf)
 <use Diplomas/certificadoAvaliador_SFM2019.pdf>
 Package pdftex.def Info: Diplomas/certificadoAvaliador_SFM2019.pdf  used on input line 392.
@@ -5054,7 +5059,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/certificadoAvaliador_SFM2019.pdf): PDF
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/certificadoAvaliador_SFM2019.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/certificadoAvaliador_SFM2019.pdf, id=4562, page=1, 845.07718pt x 600.32281pt>
+<Diplomas/certificadoAvaliador_SFM2019.pdf, id=4563, page=1, 845.07718pt x 600.32281pt>
 File: Diplomas/certificadoAvaliador_SFM2019.pdf Graphic file (type pdf)
 <use Diplomas/certificadoAvaliador_SFM2019.pdf, page 1>
 Package pdftex.def Info: Diplomas/certificadoAvaliador_SFM2019.pdf , page1 used on input line 392.
@@ -5077,7 +5082,7 @@ File: Diplomas/certificadoAvaliador_SFM2019.pdf Graphic file (type pdf)
 Package pdftex.def Info: Diplomas/certificadoAvaliador_SFM2019.pdf , page1 used on input line 392.
 (pdftex.def)             Requested size: 845.07512pt x 600.32133pt.
  [241 <./Diplomas/certificadoAvaliador_SFM2019.pdf>]
-<Diplomas/SIICUSP2020.pdf, id=4604, 597.23125pt x 845.1575pt>
+<Diplomas/SIICUSP2020.pdf, id=4605, 597.23125pt x 845.1575pt>
 File: Diplomas/SIICUSP2020.pdf Graphic file (type pdf)
 <use Diplomas/SIICUSP2020.pdf>
 Package pdftex.def Info: Diplomas/SIICUSP2020.pdf  used on input line 398.
@@ -5086,7 +5091,7 @@ File: Diplomas/SIICUSP2020.pdf Graphic file (type pdf)
 <use Diplomas/SIICUSP2020.pdf>
 Package pdftex.def Info: Diplomas/SIICUSP2020.pdf  used on input line 398.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Diplomas/SIICUSP2020.pdf, id=4607, page=1, 597.23125pt x 845.1575pt>
+<Diplomas/SIICUSP2020.pdf, id=4608, page=1, 597.23125pt x 845.1575pt>
 File: Diplomas/SIICUSP2020.pdf Graphic file (type pdf)
 <use Diplomas/SIICUSP2020.pdf, page 1>
 Package pdftex.def Info: Diplomas/SIICUSP2020.pdf , page1 used on input line 398.
@@ -5111,7 +5116,7 @@ Package pdftex.def Info: Diplomas/SIICUSP2020.pdf , page1 used on input line 398
  [243 <./Diplomas/SIICUSP2020.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_organizacao.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/InBrainWorkshop_organizacao.pdf, id=4621, 845.07718pt x 597.432pt>
+<Diplomas/InBrainWorkshop_organizacao.pdf, id=4622, 845.07718pt x 597.432pt>
 File: Diplomas/InBrainWorkshop_organizacao.pdf Graphic file (type pdf)
 <use Diplomas/InBrainWorkshop_organizacao.pdf>
 Package pdftex.def Info: Diplomas/InBrainWorkshop_organizacao.pdf  used on input line 420.
@@ -5129,7 +5134,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_organizacao.pdf): PDF 
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/InBrainWorkshop_organizacao.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/InBrainWorkshop_organizacao.pdf, id=4624, page=1, 845.07718pt x 597.432pt>
+<Diplomas/InBrainWorkshop_organizacao.pdf, id=4625, page=1, 845.07718pt x 597.432pt>
 File: Diplomas/InBrainWorkshop_organizacao.pdf Graphic file (type pdf)
 <use Diplomas/InBrainWorkshop_organizacao.pdf, page 1>
 Package pdftex.def Info: Diplomas/InBrainWorkshop_organizacao.pdf , page1 used on input line 420.
@@ -5154,7 +5159,7 @@ Package pdftex.def Info: Diplomas/InBrainWorkshop_organizacao.pdf , page1 used o
  [245 <./Diplomas/InBrainWorkshop_organizacao.pdf>]
 
 pdfTeX warning: pdflatex (file ./Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf, id=4663, 855.67677pt x 641.75758pt>
+<Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf, id=4664, 855.67677pt x 641.75758pt>
 File: Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf Graphic file (type pdf)
 <use Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf>
 Package pdftex.def Info: Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf  used on input line 426.
@@ -5172,7 +5177,7 @@ pdfTeX warning: pdflatex (file ./Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.p
 
 
 pdfTeX warning: pdflatex (file ./Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf, id=4666, page=1, 855.67677pt x 641.75758pt>
+<Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf, id=4667, page=1, 855.67677pt x 641.75758pt>
 File: Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf Graphic file (type pdf)
 <use Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf, page 1>
 Package pdftex.def Info: Diplomas/EIFAMB2018_CO_AndréMonteiroPaschoal.pdf , page1 used on input line 426.
@@ -5204,18 +5209,18 @@ Package rerunfilecheck Info: File `memorial_amp.out' has not changed.
 (rerunfilecheck)             Checksum: D2388113F9B34392E8CCE88A83938535;11441.
  ) 
 Here is how much of TeX's memory you used:
- 11170 strings out of 483107
- 187293 string characters out of 5964631
- 437533 words of memory out of 5000000
- 25468 multiletter control sequences out of 15000+600000
+ 11179 strings out of 483107
+ 187427 string characters out of 5964631
+ 437613 words of memory out of 5000000
+ 25474 multiletter control sequences out of 15000+600000
  555234 words of font info for 73 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  48i,57n,58p,875b,957s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1728.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1728.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/stix2/STIX2Math.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix2/STIX2Text-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix2/STIX2Text-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/STIXGeneral-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/STIXGeneral-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on memorial_amp.pdf (248 pages, 35856768 bytes).
+Output written on memorial_amp.pdf (248 pages, 35933361 bytes).
 PDF statistics:
- 5475 PDF objects out of 6186 (max. 8388607)
+ 5476 PDF objects out of 6186 (max. 8388607)
  3050 compressed objects within 31 object streams
  384 named destinations out of 1000 (max. 500000)
- 2533 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2538 words of extra memory for PDF output out of 10000 (max. 10000000)
 

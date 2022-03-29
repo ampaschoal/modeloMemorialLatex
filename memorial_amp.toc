@@ -23,59 +23,60 @@
 \contentsline {subsection}{\numberline {4}Certificado de Pós Doutorado, junto à Faculdade de Medicina de Ribeirão Preto (FMRP) da Universidade de São Paulo (USP)}{27}{subsection.A.4}%
 \contentsline {subsection}{\numberline {5}Declaração de pesquisador, junto à Faculdade de Medicina da Universidade de São Paulo (FMUSP)}{30}{subsection.A.5}%
 \contentsline {subsection}{\numberline {6}Participação como pesquisador associado no projeto FAPESP número 2019/06148-6}{32}{subsection.A.6}%
-\contentsline {subsection}{\numberline {7}Certificado de conclusão do MRI Graduate Program pela Universidade de Oxford}{38}{subsection.A.7}%
-\contentsline {subsection}{\numberline {8}Prêmios de mérito científico}{40}{subsection.A.8}%
-\contentsline {subsection}{\numberline {9}Prêmios de mérito científico - Prêmio CAPES de Teses}{42}{subsection.A.9}%
-\contentsline {subsection}{\numberline {10}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{44}{subsection.A.10}%
+\contentsline {subsection}{\numberline {7}Declaração de realização de estágio remunerado}{38}{subsection.A.7}%
+\contentsline {subsection}{\numberline {8}Certificado de conclusão do MRI Graduate Program pela Universidade de Oxford}{40}{subsection.A.8}%
+\contentsline {subsection}{\numberline {9}Prêmios de mérito científico}{42}{subsection.A.9}%
+\contentsline {subsection}{\numberline {10}Prêmios de mérito científico - Prêmio CAPES de Teses}{44}{subsection.A.10}%
 \contentsline {subsection}{\numberline {11}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{46}{subsection.A.11}%
 \contentsline {subsection}{\numberline {12}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{48}{subsection.A.12}%
-\contentsline {subsection}{\numberline {13}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{51}{subsection.A.13}%
+\contentsline {subsection}{\numberline {13}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{50}{subsection.A.13}%
 \contentsline {subsection}{\numberline {14}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{53}{subsection.A.14}%
 \contentsline {subsection}{\numberline {15}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{55}{subsection.A.15}%
 \contentsline {subsection}{\numberline {16}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{57}{subsection.A.16}%
 \contentsline {subsection}{\numberline {17}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{59}{subsection.A.17}%
 \contentsline {subsection}{\numberline {18}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{61}{subsection.A.18}%
 \contentsline {subsection}{\numberline {19}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{63}{subsection.A.19}%
-\contentsline {subsection}{\numberline {20}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{69}{subsection.A.20}%
+\contentsline {subsection}{\numberline {20}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{65}{subsection.A.20}%
 \contentsline {subsection}{\numberline {21}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{71}{subsection.A.21}%
 \contentsline {subsection}{\numberline {22}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{73}{subsection.A.22}%
-\contentsline {subsection}{\numberline {23}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{83}{subsection.A.23}%
-\contentsline {subsection}{\numberline {24}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{90}{subsection.A.24}%
+\contentsline {subsection}{\numberline {23}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{75}{subsection.A.23}%
+\contentsline {subsection}{\numberline {24}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{85}{subsection.A.24}%
 \contentsline {subsection}{\numberline {25}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{92}{subsection.A.25}%
 \contentsline {subsection}{\numberline {26}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{94}{subsection.A.26}%
 \contentsline {subsection}{\numberline {27}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{96}{subsection.A.27}%
 \contentsline {subsection}{\numberline {28}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{98}{subsection.A.28}%
-\contentsline {subsection}{\numberline {29}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{102}{subsection.A.29}%
+\contentsline {subsection}{\numberline {29}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{100}{subsection.A.29}%
 \contentsline {subsection}{\numberline {30}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{104}{subsection.A.30}%
 \contentsline {subsection}{\numberline {31}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{106}{subsection.A.31}%
 \contentsline {subsection}{\numberline {32}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{108}{subsection.A.32}%
 \contentsline {subsection}{\numberline {33}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{110}{subsection.A.33}%
-\contentsline {subsection}{\numberline {34}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{113}{subsection.A.34}%
-\contentsline {subsection}{\numberline {35}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{119}{subsection.A.35}%
-\contentsline {subsection}{\numberline {36}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{122}{subsection.A.36}%
-\contentsline {subsection}{\numberline {37}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{126}{subsection.A.37}%
+\contentsline {subsection}{\numberline {34}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{112}{subsection.A.34}%
+\contentsline {subsection}{\numberline {35}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{115}{subsection.A.35}%
+\contentsline {subsection}{\numberline {36}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{121}{subsection.A.36}%
+\contentsline {subsection}{\numberline {37}Participa\c {c}\~{a}o em Eventos Cient\'{\i }ficos (com apresenta\c {c}\~{a}o de trabalho ou oferecimento de cursos, palestras ou debates}{124}{subsection.A.37}%
 \contentsline {subsection}{\numberline {38}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{128}{subsection.A.38}%
-\contentsline {subsection}{\numberline {39}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{131}{subsection.A.39}%
-\contentsline {subsection}{\numberline {40}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{134}{subsection.A.40}%
+\contentsline {subsection}{\numberline {39}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{130}{subsection.A.39}%
+\contentsline {subsection}{\numberline {40}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{133}{subsection.A.40}%
 \contentsline {subsection}{\numberline {41}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{136}{subsection.A.41}%
-\contentsline {subsection}{\numberline {42}Autoria de artigos completos publicados em anais de congresso, em jornais e revistas de circulação nacional e internacional na sua área}{141}{subsection.A.42}%
-\contentsline {subsection}{\numberline {43}Autoria de artigos completos publicados em anais de congresso, em jornais e revistas de circulação nacional e internacional na sua área}{144}{subsection.A.43}%
+\contentsline {subsection}{\numberline {42}Obtenção de bolsa de estudo em instituições de renome científico ou cultural}{138}{subsection.A.42}%
+\contentsline {subsection}{\numberline {43}Autoria de artigos completos publicados em anais de congresso, em jornais e revistas de circulação nacional e internacional na sua área}{143}{subsection.A.43}%
 \contentsline {subsection}{\numberline {44}Autoria de artigos completos publicados em anais de congresso, em jornais e revistas de circulação nacional e internacional na sua área}{146}{subsection.A.44}%
-\contentsline {subsection}{\numberline {45}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{149}{subsection.A.45}%
-\contentsline {subsection}{\numberline {46}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{154}{subsection.A.46}%
-\contentsline {subsection}{\numberline {47}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{162}{subsection.A.47}%
-\contentsline {subsection}{\numberline {48}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{173}{subsection.A.48}%
-\contentsline {subsection}{\numberline {49}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{182}{subsection.A.49}%
-\contentsline {subsection}{\numberline {50}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{196}{subsection.A.50}%
-\contentsline {subsection}{\numberline {51}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{206}{subsection.A.51}%
-\contentsline {subsection}{\numberline {52}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{222}{subsection.A.52}%
-\contentsline {subsection}{\numberline {53}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{225}{subsection.A.53}%
-\contentsline {subsection}{\numberline {54}Monitorias para disciplinas de graduação}{237}{subsection.A.54}%
+\contentsline {subsection}{\numberline {45}Autoria de artigos completos publicados em anais de congresso, em jornais e revistas de circulação nacional e internacional na sua área}{148}{subsection.A.45}%
+\contentsline {subsection}{\numberline {46}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{151}{subsection.A.46}%
+\contentsline {subsection}{\numberline {47}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{156}{subsection.A.47}%
+\contentsline {subsection}{\numberline {48}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{164}{subsection.A.48}%
+\contentsline {subsection}{\numberline {49}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{175}{subsection.A.49}%
+\contentsline {subsection}{\numberline {50}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{184}{subsection.A.50}%
+\contentsline {subsection}{\numberline {51}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{198}{subsection.A.51}%
+\contentsline {subsection}{\numberline {52}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{208}{subsection.A.52}%
+\contentsline {subsection}{\numberline {53}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{224}{subsection.A.53}%
+\contentsline {subsection}{\numberline {54}Autoria de artigos completos publicados em jornais e revistas de circulação nacional e internacional na sua área}{227}{subsection.A.54}%
 \contentsline {subsection}{\numberline {55}Monitorias para disciplinas de graduação}{239}{subsection.A.55}%
 \contentsline {subsection}{\numberline {56}Monitorias para disciplinas de graduação}{241}{subsection.A.56}%
 \contentsline {subsection}{\numberline {57}Monitorias para disciplinas de graduação}{243}{subsection.A.57}%
-\contentsline {subsection}{\numberline {58}Membro de Comissão Avaliadora}{245}{subsection.A.58}%
+\contentsline {subsection}{\numberline {58}Monitorias para disciplinas de graduação}{245}{subsection.A.58}%
 \contentsline {subsection}{\numberline {59}Membro de Comissão Avaliadora}{247}{subsection.A.59}%
 \contentsline {subsection}{\numberline {60}Membro de Comissão Avaliadora}{249}{subsection.A.60}%
-\contentsline {subsection}{\numberline {61}Comiss\~{a}o Organizadora de Eventos Internacional, Nacional, Regional ou Local}{251}{subsection.A.61}%
+\contentsline {subsection}{\numberline {61}Membro de Comissão Avaliadora}{251}{subsection.A.61}%
 \contentsline {subsection}{\numberline {62}Comiss\~{a}o Organizadora de Eventos Internacional, Nacional, Regional ou Local}{253}{subsection.A.62}%
+\contentsline {subsection}{\numberline {63}Comiss\~{a}o Organizadora de Eventos Internacional, Nacional, Regional ou Local}{255}{subsection.A.63}%

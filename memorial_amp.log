@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.11)  11 AUG 2023 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.11)  11 AUG 2023 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1319,19 +1319,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
  (./memorial_amp.aux (./appendices.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
-Package rerunfilecheck Info: File `memorial_amp.out' has not changed.
-(rerunfilecheck)             Checksum: 97D8484FB45D16E4C636D0C0587AFB6E;3631.
+
+
+Package rerunfilecheck Warning: File `memorial_amp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `memorial_amp.out':
+(rerunfilecheck)             Before: FEFBFC9EF0754C934E7E08F91539FA17;11697
+(rerunfilecheck)             After:  97D8484FB45D16E4C636D0C0587AFB6E;3631.
  ) 
 Here is how much of TeX's memory you used:
- 9877 strings out of 483090
- 142518 string characters out of 5963929
- 419525 words of memory out of 5000000
- 24544 multiletter control sequences out of 15000+600000
+ 9878 strings out of 483090
+ 142528 string characters out of 5963929
+ 420147 words of memory out of 5000000
+ 24545 multiletter control sequences out of 15000+600000
  554548 words of font info for 72 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
- 45i,57n,55p,877b,952s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,57n,55p,927b,952s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1728.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1728.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/ampaschoal/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk>
-Output written on memorial_amp.pdf (33 pages, 288052 bytes).
+Output written on memorial_amp.pdf (33 pages, 288441 bytes).
 PDF statistics:
  1027 PDF objects out of 1200 (max. 8388607)
  433 compressed objects within 5 object streams
